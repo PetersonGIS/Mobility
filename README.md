@@ -1,7 +1,6 @@
 # Mobility
 A sample style for use with Maputnik
 
-- Toggle on visibility of bonn_bldg_3d data layer for tilt viewing
 - This style makes use of road casing and road shields
 - Intended for use as a light basemap
 - Clipping issues at zoom 15 & higher to be fixed soon
