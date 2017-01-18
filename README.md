@@ -7,7 +7,7 @@ A sample style for use with Maputnik
 - The bonn_lakes data layer is missing a few pieces of the Rhine River
 - If Maputnik doesn't recenter for you, try #11.5/50.7377/7.1119
 
-<img width="600" src="MobilityScreenshot1.jpg" />
+<img width="800" src="MobilityScreenshot1.jpg" />
 
-<img width="600" src="MobilityScreenshot2.jpg" />
+<img width="800" src="MobilityScreenshot2.jpg" />
 
