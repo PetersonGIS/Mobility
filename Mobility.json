@@ -21,7 +21,7 @@
       "url": "http://tegola.cfapps.io/capabilities/bonn_osm.json"
     }
   },
-  "sprite": "https://petersongis.github.io/Mobility/sprite",
+  "sprite": "https://petersongis.github.io/Mobility/Spritesheets",
   "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
   "layers": [
     {
@@ -677,16 +677,28 @@
           ]
         },
         "icon-allow-overlap": true,
-        "icon-optional": false,
+        "icon-optional": true,
         "text-line-height": 1.2,
         "visibility": "visible",
         "text-ignore-placement": false,
         "icon-image": "rectangle-6",
         "text-rotation-alignment": "viewport",
-        "icon-rotation-alignment": "viewport"
+        "icon-rotation-alignment": "viewport",
+        "icon-size": 1,
+        "icon-text-fit": "none",
+        "icon-text-fit-padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "text-max-width": 1
       },
       "paint": {
-        "text-color": "#333"
+        "text-color": "#333",
+        "icon-color": "rgba(158, 22, 22, 1)",
+        "icon-halo-color": "rgba(199, 63, 63, 1)",
+        "icon-opacity": 1
       }
     }
   ],
