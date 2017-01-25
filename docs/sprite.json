@@ -154,31 +154,31 @@
     "y": 32
   },
   "rectangle-6": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 42,
+    "x": 160,
+    "y": 64
+  },
+  "shield1": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
     "x": 192,
     "y": 32
   },
-  "shield1": {
+  "spoon-knife": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
     "x": 224,
     "y": 32
   },
-  "spoon-knife": {
-    "height": 32,
-    "pixelRatio": 1,
-    "width": 32,
-    "x": 128,
-    "y": 64
-  },
   "waves": {
     "height": 32,
     "pixelRatio": 1,
     "width": 32,
-    "x": 160,
+    "x": 128,
     "y": 64
   }
 }
