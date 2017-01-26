@@ -1,7 +1,7 @@
 # Mobility
 A sample style for use with Maputnik
 
-- [View the style as an OpenLayers map in the browser](http://htmlpreview.github.io/?https://github.com/PetersonGIS/Mobility/blob/master/live-map.html) (note that text and tilt not currently functioning)
+- [View the style as an OpenLayers map in the browser](http://htmlpreview.github.io/?https://github.com/PetersonGIS/Mobility/blob/master/live-map.html) (note that text and tilt are not currently functioning)
 - This style makes use of road casing and road shields
 - Intended for use as a light basemap
 - Clipping issues at zoom 15 & higher to be fixed soon
