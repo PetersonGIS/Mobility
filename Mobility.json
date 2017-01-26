@@ -127,7 +127,7 @@
       },
       "paint": {
         "fill-color": "rgba(189, 67, 67, 0.2)",
-        "fill-outline-color": "rgba(146, 140, 0, 1)"
+        "fill-outline-color": "rgba(195, 32, 7, 0.5)"
       }
     },
     {
@@ -140,8 +140,8 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "rgba(138, 78, 63, 0.15)",
-        "fill-outline-color": "rgba(134, 18, 55, 1)"
+        "fill-color": "rgba(107, 73, 38, 0.15)",
+        "fill-outline-color": "rgba(105, 74, 35, 0.45)"
       }
     },
     {
@@ -171,7 +171,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "rgba(165, 167, 162, .3)",
+        "fill-color": "rgba(188, 191, 184, 1)",
         "fill-outline-color": "rgba(167, 167, 148, 1)",
         "fill-opacity": 1
       }
@@ -367,7 +367,7 @@
             ],
             [
               20,
-              17
+              13
             ]
           ]
         },
@@ -413,7 +413,7 @@
             ],
             [
               20,
-              13
+              9
             ]
           ]
         },
@@ -462,7 +462,7 @@
             ],
             [
               20,
-              20
+              14
             ]
           ]
         },
@@ -506,7 +506,7 @@
             ],
             [
               20,
-              22
+              18
             ]
           ]
         },
@@ -551,7 +551,7 @@
             ],
             [
               20,
-              15
+              11
             ]
           ]
         },
@@ -597,7 +597,7 @@
             ],
             [
               20,
-              18
+              14
             ]
           ]
         },
@@ -668,11 +668,11 @@
           "stops": [
             [
               14,
-              11
+              9
             ],
             [
               15,
-              16
+              10
             ]
           ]
         },
@@ -684,7 +684,7 @@
         "icon-image": "rectangle-6",
         "text-rotation-alignment": "viewport",
         "icon-rotation-alignment": "viewport",
-        "icon-size": 1,
+        "icon-size": 0.8,
         "icon-text-fit": "none",
         "icon-text-fit-padding": [
           0,
