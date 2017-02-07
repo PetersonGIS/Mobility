@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Mobility",
+  "name": "mobility",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:type": "template",
@@ -166,9 +166,19 @@
       "filter": [
         "all",
         [
-          "==",
+          "!=",
           "highway",
-          "service"
+          "residential"
+        ],
+        [
+          "!=",
+          "highway",
+          "secondary"
+        ],
+        [
+          "!=",
+          "highway",
+          "tertiary"
         ]
       ],
       "layout": {
