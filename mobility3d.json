@@ -104,7 +104,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "fill-color": {
@@ -181,7 +181,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": {
@@ -226,7 +226,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages_gen1",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "fill-color": {
@@ -303,7 +303,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages_gen1",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": {
