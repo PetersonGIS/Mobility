@@ -42,11 +42,11 @@
         "background-color": "rgba(198, 201, 193, 1)"
       }
     },
-    {
-      "id": "lake",
+	{
+      "id": "waterareas",
       "type": "fill",
-      "source": "bonn_osm",
-      "source-layer": "lakes",
+      "source": "tegola-osm",
+      "source-layer": "waterareas",
       "layout": {
         "visibility": "visible"
       },
@@ -54,6 +54,57 @@
         "fill-color": "rgba(165, 167, 162, 1)"
       }
     },
+    {
+      "id": "waterareas_gen1",
+      "type": "fill",
+      "source": "tegola-osm",
+      "source-layer": "waterareas_gen1",
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "rgba(165, 167, 162, 1)"
+      }
+    },
+    {
+      "id": "waterareas_gen0",
+      "type": "fill",
+      "source": "tegola-osm",
+      "source-layer": "waterareas_gen0",
+      "minzoom": 7,
+      "maxzoom": 9,
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "rgba(165, 167, 162, 1)"
+      }
+    },
+    {
+      "id": "waterareas_gen0low",
+      "type": "fill",
+      "source": "tegola-osm",
+      "source-layer": "waterareas_gen0",
+      "minzoom": 3,
+      "maxzoom": 7,
+      "filter": [
+        "all",
+        [
+          ">",
+          "area",
+          1000000000
+        ]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "rgba(165, 167, 162, 1)"
+      }
+    },
+	
+	
+ 
     {
       "id": "landusages_areas",
       "type": "fill",
