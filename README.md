@@ -9,7 +9,6 @@ Note that the road labels and tilt functionality are missing from this map, whic
 - [Rendered with Mapbox:](http://www.gretchenpeterson.com/live-map-mapbox-mobility.html) 
   Note that road labels and tilt are working in this map, which displays the mobility3d.json style. Test the tilt (pitch)   functionality by holding ctrl while clicking and dragging. The building extrusions are not yet functional on mobile devices.
 - At zooms 15 and higher the data begins to appear blocky, this is due to clipping issues in the source data that are in the process of being fixed.
-- A piece of the Rhine River appears to be missing from the original data.
 
 ## Map Design
 
