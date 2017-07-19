@@ -104,7 +104,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages",
       "layout": {
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "fill-color": {
@@ -181,7 +181,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages",
       "layout": {
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": {
@@ -226,7 +226,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages_gen1",
       "layout": {
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "fill-color": {
@@ -303,7 +303,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages_gen1",
       "layout": {
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": {
@@ -337,6 +337,88 @@
             [
               "military",
               "rgba(64, 63, 63, 1)"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "road_rail",
+      "type": "line",
+      "source": "tegola-osm",
+      "source-layer": "roads_14-20",
+      "filter": [
+        "all",
+        [
+          "in",
+          "type",
+          "rail"
+        ]
+      ],
+      "layout": {
+        "visibility": "visible",
+        "line-cap": "butt",
+        "line-join": "miter"
+      },
+      "paint": {
+        "line-color": "rgba(146, 143, 143, 1)",
+        "line-width": {
+          "base": 1.4,
+          "stops": [
+            [
+              14,
+              0.4
+            ],
+            [
+              15,
+              0.75
+            ],
+            [
+              20,
+              2
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "road_railhatch",
+      "type": "line",
+      "source": "tegola-osm",
+      "source-layer": "roads_14-20",
+      "filter": [
+        "all",
+        [
+          "in",
+          "type",
+          "rail"
+        ]
+      ],
+      "layout": {
+        "visibility": "visible",
+        "line-cap": "butt",
+        "line-join": "miter"
+      },
+      "paint": {
+        "line-color": "#928F8F",
+        "line-dasharray": [
+          0.2,
+          8
+        ],
+        "line-width": {
+          "base": 1.4,
+          "stops": [
+            [
+              14.5,
+              0
+            ],
+            [
+              15,
+              3
+            ],
+            [
+              20,
+              8
             ]
           ]
         }
