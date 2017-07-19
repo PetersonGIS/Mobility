@@ -16,10 +16,6 @@
   "bearing": 0,
   "pitch": 0,
   "sources": {
-    "bonn_osm": {
-      "type": "vector",
-      "url": "http://tegola.cfapps.io/capabilities/bonn_osm.json"
-    },
     "tegola-osm": {
       "type": "vector",
       "url": "http://tegola-cdn.terranodo.io/capabilities/osm.json?debug=true"
@@ -108,7 +104,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "fill-color": {
@@ -185,7 +181,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": {
@@ -230,7 +226,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages_gen1",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "fill-color": {
@@ -307,7 +303,7 @@
       "source": "tegola-osm",
       "source-layer": "landusages_gen1",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": {
