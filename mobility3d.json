@@ -35,7 +35,78 @@
         "visibility": "visible"
       },
       "paint": {
-        "background-color": "rgba(198, 201, 193, 1)"
+        "background-color": "rgba(165, 167, 162, 1)"
+      }
+    },
+    {
+      "id": "land_10-20_coastline",
+      "type": "line",
+      "source": "tegola-osm",
+      "source-layer": "land_10-20",
+      "maxzoom": 20,
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "line-color": "rgba(143, 144, 141, 1)",
+        "line-width": {
+          "stops": [
+            [
+              10,
+              3.5
+            ],
+            [
+              20,
+              8
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "land_0-9_coastline",
+      "type": "line",
+      "source": "tegola-osm",
+      "source-layer": "land_0-9",
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "line-color": "rgba(143, 144, 141, 1)",
+        "line-width": {
+          "stops": [
+            [
+              0,
+              1
+            ],
+            [
+              10,
+              3.5
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "land_10-20",
+      "type": "fill",
+      "source": "tegola-osm",
+      "source-layer": "land_10-20",
+      "maxzoom": 20,
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "rgba(198, 201, 193, 1)"
+      }
+    },
+    {
+      "id": "land_0-9",
+      "type": "fill",
+      "source": "tegola-osm",
+      "source-layer": "land_0-9",
+      "paint": {
+        "fill-color": "rgba(198, 201, 193, 1)"
       }
     },
     {
