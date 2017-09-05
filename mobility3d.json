@@ -1877,6 +1877,57 @@
       }
     },
     {
+      "id": "building_tilt_na",
+      "type": "fill-extrusion",
+      "source": "tegola-osm",
+      "source-layer": "buildings",
+      "minzoom": 0,
+      "maxzoom": 24,
+      "filter": [
+        "all",
+        [
+          "!has",
+          "height"
+        ]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-extrusion-color": "rgba(166, 169, 162, 0.9)",
+        "fill-extrusion-height": 5,
+        "fill-extrusion-base": 0,
+        "fill-extrusion-opacity": 1
+      }
+    },
+    {
+      "id": "building_tilt",
+      "type": "fill-extrusion",
+      "source": "tegola-osm",
+      "source-layer": "buildings",
+      "minzoom": 0,
+      "maxzoom": 24,
+      "filter": [
+        "any",
+        [
+          "has",
+          "height"
+        ]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-extrusion-color": "rgba(166, 169, 162, 0.9)",
+        "fill-extrusion-height": {
+          "property": "height",
+          "type": "identity"
+        },
+        "fill-extrusion-base": 0,
+        "fill-extrusion-opacity": 1
+      }
+    },
+    {
       "id": "label_motorway_shield",
       "type": "symbol",
       "source": "tegola-osm",
@@ -1933,57 +1984,6 @@
         "icon-opacity": 1,
         "text-translate-anchor": "viewport",
         "icon-translate-anchor": "viewport"
-      }
-    },
-    {
-      "id": "building_tilt_na",
-      "type": "fill-extrusion",
-      "source": "tegola-osm",
-      "source-layer": "buildings",
-      "minzoom": 0,
-      "maxzoom": 24,
-      "filter": [
-        "all",
-        [
-          "!has",
-          "height"
-        ]
-      ],
-      "layout": {
-        "visibility": "visible"
-      },
-      "paint": {
-        "fill-extrusion-color": "rgba(166, 169, 162, 0.9)",
-        "fill-extrusion-height": 5,
-        "fill-extrusion-base": 0,
-        "fill-extrusion-opacity": 1
-      }
-    },
-    {
-      "id": "building_tilt",
-      "type": "fill-extrusion",
-      "source": "tegola-osm",
-      "source-layer": "buildings",
-      "minzoom": 0,
-      "maxzoom": 24,
-      "filter": [
-        "any",
-        [
-          "has",
-          "height"
-        ]
-      ],
-      "layout": {
-        "visibility": "visible"
-      },
-      "paint": {
-        "fill-extrusion-color": "rgba(166, 169, 162, 0.9)",
-        "fill-extrusion-height": {
-          "property": "height",
-          "type": "identity"
-        },
-        "fill-extrusion-base": 0,
-        "fill-extrusion-opacity": 1
       }
     }
   ],

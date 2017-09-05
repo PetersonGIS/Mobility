@@ -1877,6 +1877,24 @@
       }
     },
     {
+      "id": "building",
+      "type": "fill",
+      "source": "tegola-osm",
+      "source-layer": "buildings",
+      "minzoom": 0,
+      "maxzoom": 24,
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "rgba(188, 191, 184, 1)",
+        "fill-outline-color": "rgba(167, 167, 148, 1)"
+      }
+    },
+    {
       "id": "label_motorway_shield",
       "type": "symbol",
       "source": "tegola-osm",
@@ -1933,24 +1951,6 @@
         "icon-opacity": 1,
         "text-translate-anchor": "viewport",
         "icon-translate-anchor": "viewport"
-      }
-    },
-    {
-      "id": "building",
-      "type": "fill",
-      "source": "tegola-osm",
-      "source-layer": "buildings",
-      "minzoom": 0,
-      "maxzoom": 24,
-      "filter": [
-        "all"
-      ],
-      "layout": {
-        "visibility": "visible"
-      },
-      "paint": {
-        "fill-color": "rgba(188, 191, 184, 1)",
-        "fill-outline-color": "rgba(167, 167, 148, 1)"
       }
     }
   ],
