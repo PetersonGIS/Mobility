@@ -91,16 +91,16 @@
     "y": 30
   },
   "bank-11": {
-    "height": 22,
-    "pixelRatio": 1,
-    "width": 34,
+    "height": 44,
+    "pixelRatio": 2,
+    "width": 68,
     "x": 46,
     "y": 0
   },
   "bank-15": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 46,
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 93,
     "x": 0,
     "y": 0
   },
