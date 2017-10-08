@@ -41,42 +41,42 @@
     "x": 15,
     "y": 16
   },
-  "alcohol-shop-11": {
+  "alcohol_shop-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 183,
     "y": 121
   },
-  "alcohol-shop-15": {
+  "alcohol_shop-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
     "x": 30,
     "y": 16
   },
-  "america-football-11": {
+  "america_football-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 194,
     "y": 121
   },
-  "america-football-15": {
+  "america_football-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
     "x": 45,
     "y": 16
   },
-  "amusement-park-11": {
+  "amusement_park-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 205,
     "y": 121
   },
-  "amusement-park-15": {
+  "amusement_park-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -97,14 +97,14 @@
     "x": 46,
     "y": 0
   },
-  "art-gallery-11": {
+  "art_gallery-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 227,
     "y": 121
   },
-  "art-gallery-15": {
+  "art_gallery-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -251,28 +251,28 @@
     "x": 90,
     "y": 16
   },
-  "bicycle-share-11": {
+  "bicycle_share-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 99,
     "y": 136
   },
-  "bicycle-share-15": {
+  "bicycle_share-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
     "x": 105,
     "y": 16
   },
-  "blood-bank-11": {
+  "blood_bank-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 110,
     "y": 136
   },
-  "blood-bank-15": {
+  "blood_bank-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -307,14 +307,14 @@
     "x": 90,
     "y": 31
   },
-  "building-alt1-11": {
+  "building_alt1-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 143,
     "y": 136
   },
-  "building-alt1-15": {
+  "building_alt1-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -461,14 +461,14 @@
     "x": 15,
     "y": 61
   },
-  "clothing-store-11": {
+  "clothing-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 11,
     "y": 147
   },
-  "clothing-store-15": {
+  "clothing-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -587,42 +587,42 @@
     "x": 30,
     "y": 76
   },
-  "doctor-11": {
+  "doctors-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 110,
     "y": 147
   },
-  "doctor-15": {
+  "doctors-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
     "x": 45,
     "y": 76
   },
-  "dog-park-11": {
+  "dog_park-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 121,
     "y": 147
   },
-  "dog-park-15": {
+  "dog_park-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
     "x": 60,
     "y": 76
   },
-  "drinking-water-11": {
+  "drinking_water-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 132,
     "y": 147
   },
-  "drinking-water-15": {
+  "drinking_water-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -643,14 +643,14 @@
     "x": 90,
     "y": 76
   },
-  "emergency-phone-11": {
+  "emergency_phone-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 154,
     "y": 147
   },
-  "emergency-phone-15": {
+  "emergency_phone-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -699,14 +699,14 @@
     "x": 30,
     "y": 91
   },
-  "fast-food-11": {
+  "fast_food-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 198,
     "y": 147
   },
-  "fast-food-15": {
+  "fast_food-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -741,14 +741,14 @@
     "x": 75,
     "y": 91
   },
-  "fire-station-11": {
+  "fire_station-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 231,
     "y": 147
   },
-  "fire-station-15": {
+  "fire_station-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -811,14 +811,14 @@
     "x": 30,
     "y": 106
   },
-  "garden-center-11": {
+  "garden_center-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 33,
     "y": 158
   },
-  "garden-center-15": {
+  "garden_center-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -937,14 +937,14 @@
     "x": 165,
     "y": 16
   },
-  "horse-riding-11": {
+  "horse_riding-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 132,
     "y": 158
   },
-  "horse-riding-15": {
+  "horse_riding-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1147,14 +1147,14 @@
     "x": 120,
     "y": 46
   },
-  "mobile-phone-11": {
+  "mobile_phone-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 44,
     "y": 169
   },
-  "mobile-phone-15": {
+  "mobile_phone-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1273,14 +1273,14 @@
     "x": 120,
     "y": 61
   },
-  "parking-garage-11": {
+  "parking_garage-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 143,
     "y": 169
   },
-  "parking-garage-15": {
+  "parking_garage-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1301,14 +1301,14 @@
     "x": 150,
     "y": 61
   },
-  "picnic-site-11": {
+  "picnic_site-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 165,
     "y": 169
   },
-  "picnic-site-15": {
+  "picnic_site-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1329,14 +1329,14 @@
     "x": 180,
     "y": 61
   },
-  "place-of-worship-11": {
+  "place_of_worship-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 187,
     "y": 169
   },
-  "place-of-worship-15": {
+  "place_of_worship-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1441,14 +1441,14 @@
     "x": 165,
     "y": 76
   },
-  "ranger-station-11": {
+  "ranger_station-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 22,
     "y": 180
   },
-  "ranger-station-15": {
+  "ranger_station-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1847,14 +1847,14 @@
     "x": 181,
     "y": 0
   },
-  "toilet-11": {
+  "toilets-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 88,
     "y": 191
   },
-  "toilet-15": {
+  "toilets-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1875,14 +1875,14 @@
     "x": 211,
     "y": 0
   },
-  "town-hall-11": {
+  "townhall-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 110,
     "y": 191
   },
-  "town-hall-15": {
+  "townhall-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
@@ -1973,14 +1973,14 @@
     "x": 60,
     "y": 121
   },
-  "waste-basket-11": {
+  "waste_basket-11": {
     "height": 11,
     "pixelRatio": 1,
     "width": 11,
     "x": 187,
     "y": 191
   },
-  "waste-basket-15": {
+  "waste_basket-15": {
     "height": 15,
     "pixelRatio": 1,
     "width": 15,
