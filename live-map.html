@@ -18,7 +18,7 @@
 <body>
   <div id="map"></div>
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=fetch,Promise"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.3.1/ol.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.4.1/ol.js"></script>
   <script src="https://rawgit.com/boundlessgeo/ol-mapbox-style/v2.6.6/dist/olms.js"></script>
   <script>
 
@@ -28,7 +28,7 @@
       format: new ol.format.MVT(),
       tileGrid: tilegrid,
       tilePixelRatio: 8,
-        url: 'https://osm.tegola.io'
+        url: 'https://osm.tegola.io/maps/osm/{z}/{x}/{y}.pbf'
     })
   });
   var map = new ol.Map({
