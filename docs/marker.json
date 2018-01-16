@@ -1,0 +1,604 @@
+{
+  "ndb": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 50,
+    "x": 832,
+    "y": 128
+  },
+  "weather_aquarius": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "weather_aries": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 0
+  },
+  "weather_cancer": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 64
+  },
+  "weather_capricorn": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 64
+  },
+  "weather_cloud": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 0
+  },
+  "weather_cloud_drop": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 0
+  },
+  "weather_cloud_lightning": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 64
+  },
+  "weather_cloud_snowflake": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 64
+  },
+  "weather_downpour_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 128
+  },
+  "weather_downpour_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 128
+  },
+  "weather_downpour_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 128
+  },
+  "weather_drop": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 128
+  },
+  "weather_first_quarter ": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 192
+  },
+  "weather_fog": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 192
+  },
+  "weather_fog_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 192
+  },
+  "weather_fog_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 192
+  },
+  "weather_fog_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 0
+  },
+  "weather_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 0
+  },
+  "weather_gemini": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 0
+  },
+  "weather_hail": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 0
+  },
+  "weather_hail_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 64
+  },
+  "weather_hail_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 64
+  },
+  "weather_hail_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 64
+  },
+  "weather_last_quarter": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 64
+  },
+  "weather_leo": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 128
+  },
+  "weather_libra": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 128
+  },
+  "weather_lightning": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 128
+  },
+  "weather_mistyrain": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 128
+  },
+  "weather_mistyrain_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 192
+  },
+  "weather_mistyrain_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 192
+  },
+  "weather_mistyrain_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 192
+  },
+  "weather_moon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 192
+  },
+  "weather_moondown_full": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 256
+  },
+  "weather_moondown_half": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 256
+  },
+  "weather_moonset_full": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 256
+  },
+  "weather_moonset_half": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 256
+  },
+  "weather_move2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 256
+  },
+  "weather_newmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 256
+  },
+  "weather_pisces": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 256
+  },
+  "weather_rain": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 256
+  },
+  "weather_rain_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 320
+  },
+  "weather_rain_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 320
+  },
+  "weather_rain_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 320
+  },
+  "weather_sagittarius": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 320
+  },
+  "weather_scorpio": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 320
+  },
+  "weather_snow": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 320
+  },
+  "weather_snow_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 320
+  },
+  "weather_snow_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 320
+  },
+  "weather_snow_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 384
+  },
+  "weather_snowflake": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 384
+  },
+  "weather_star": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 384
+  },
+  "weather_storm-11": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 384
+  },
+  "weather_storm-32": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 384
+  },
+  "weather_storm_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 384
+  },
+  "weather_storm_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 384
+  },
+  "weather_storm_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 384
+  },
+  "weather_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 448
+  },
+  "weather_sundown": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 448
+  },
+  "weather_sunset": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 448
+  },
+  "weather_taurus": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 448
+  },
+  "weather_tempest": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 448
+  },
+  "weather_tempest_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 448
+  },
+  "weather_tempest_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 448
+  },
+  "weather_tempest_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 448
+  },
+  "weather_variable_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 0
+  },
+  "weather_variable_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 0
+  },
+  "weather_variable_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 0
+  },
+  "weather_virgo": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 0
+  },
+  "weather_waning_cresent": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 0
+  },
+  "weather_waning_gibbous": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 0
+  },
+  "weather_waxing_cresent": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 0
+  },
+  "weather_waxing_gibbous": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 0
+  },
+  "weather_wind": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 64
+  },
+  "weather_wind_E": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 64
+  },
+  "weather_wind_N": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 64
+  },
+  "weather_wind_NE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 64
+  },
+  "weather_wind_NW": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 64
+  },
+  "weather_wind_S": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 832,
+    "y": 64
+  },
+  "weather_wind_SE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 896,
+    "y": 64
+  },
+  "weather_wind_SW": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 960,
+    "y": 64
+  },
+  "weather_wind_W": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 128
+  },
+  "weather_wind_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 128
+  },
+  "weather_wind_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 640,
+    "y": 128
+  },
+  "weather_wind_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 704,
+    "y": 128
+  },
+  "weather_windgust": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 768,
+    "y": 128
+  }
+}
