@@ -79,6 +79,7 @@ To view these data layers in a map and query the features for a better understan
 
 ### landuse_areas
 Nature reserves, military land, forest, leisure, wood, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 3-5  | osm       | landuse_areas_gen0  | name, class, type, area    | type IN ('forest','wood','nature reserve', 'nature_reserve', 'military') AND area > 1000000000 |
@@ -106,6 +107,7 @@ Nature reserves, military land, forest, leisure, wood, etc.
 
 ### transport_lines
 Roads, airport runways, ferry routes, paths, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 3-4  | ne       | ne_10m_roads_3        | name, min_zoom, min_label, type, label                       | min_zoom < 5 AND type <> 'Ferry Route' |
@@ -119,6 +121,7 @@ Roads, airport runways, ferry routes, paths, etc.
 
 ### transport_areas
 Airports, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 12-20| osm       | transport_areas  | name, class, type      | 
@@ -126,6 +129,7 @@ Airports, etc.
 
 ### transport_points
 Airports, helipads, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | transport_points  | name, class, type      | 
@@ -133,12 +137,14 @@ Airports, helipads, etc.
 
 ### amenity_areas
 Fire stations, banks, embassies, government, police stations, schools, universities, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | amenity_areas  | name, type      | 
 
 ### amenity_points
 Fire stations, banks, embassies, government, police stations, schools, universities, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | amenity_points  | name, type      | 
@@ -146,6 +152,7 @@ Fire stations, banks, embassies, government, police stations, schools, universit
 
 ### other_points
 Man made, historic, military, barriers, power towers, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | other_points  | name, class, type      | 
@@ -153,6 +160,7 @@ Man made, historic, military, barriers, power towers, etc.
 
 ### other_lines
 Man made, historic, military, barriers, power lines, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | other_lines  | name, class, type      |
@@ -160,6 +168,7 @@ Man made, historic, military, barriers, power lines, etc.
 
 ### other_areas 
 Man made, historic, military, power, barriers, piers, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 6-8  | osm       | other_areas_filter  | name, class, type      | area > 1000000 |
