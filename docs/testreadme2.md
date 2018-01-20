@@ -1,10 +1,12 @@
 ## Data Layers
-To view these data layers in a map and query the features for a better understanding of each data layer, use the [Tegola-OSM Inspector](https://osm.tegola.io). The data layers described here are in the "Tegola-OSM" database as laid out in the tegola.toml (i.e., not the Natural Earth database that is specified in tegola-natural-earth.toml). 
+To view these data layers in a map and query the features for a better understanding of each data layer, use the [Tegola-OSM Inspector](https://osm.tegola.io). The data layers described here are in the "Tegola-OSM" database as laid out in the tegola.toml (i.e., not the Natural Earth database that is specified in tegola-natural-earth.toml).
+ 
 | source | Description |
 |--------|-------------|
 |ne      | Natural Earth data, version 4 |
 |osm     | OpenStreetMap data, current |
 |osm land| OpenStreetMap-derived land polygons from openstreetmapdata.com, currentness depends on last pull |
+
 >**Note:** All layers also have the data fields: layer id and geometry. An empty where column means that all features are retained.
 
 
@@ -77,7 +79,6 @@ To view these data layers in a map and query the features for a better understan
 
 ### landuse_areas
 Nature reserves, military land, forest, leisure, wood, etc.
-*polygons*
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 3-5  | osm       | landuse_areas_gen0  | name, class, type, area    | type IN ('forest','wood','nature reserve', 'nature_reserve', 'military') AND area > 1000000000 |
