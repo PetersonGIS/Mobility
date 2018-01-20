@@ -1,3 +1,59 @@
+# Tegola OSM
+
+This repo houses instructions and configuration files to aid with standing up an OpenStreetMap export and Natural Earth dataset into a PostGIS enabled database that uses [tegola](https://github.com/terranodo/tegola) for creating and serving vector tiles.
+
+## Repo config files
+
+- imposm3.json - an [imposm3](https://github.com/omniscale/imposm3) mapping file for the OSM PBF file.
+- tegola.toml - a [tegola](https://github.com/terranodo/tegola) configuration file for the OSM import produced by imposm3.
+
+## Dependencies
+
+- Postgres server with [PostGIS](http://www.postgis.net) enabled.
+- imposm3 ([download](https://imposm.org/static/rel/) - linux only)
+- tegola ([download](https://github.com/terranodo/tegola/releases))
+- [gdal](http://www.gdal.org/) - required for Natural Earth import
+
+## Download the OSM planet database in PBF format
+
+```bash
+curl -O http://planet.openstreetmap.org/pbf/planet-latest.osm.pbf
+```
+
+## Import the OSM export into PostGIS using imposm3
+
+```bash
+./imposm3 import -connection postgis://username:password@host/database-name -mapping imposm3.json -read /path/to/osm/planet-latest.osm.pbf -write
+./imposm3 import -connection postgis://username:password@host/database-name -mapping imposm3.json -deployproduction
+```
+
+## Import the Natural Earth dataset (requires gdal. can be skipped if you're only interested in OSM)
+Update the database credentials inside of `natural_earth.sh`, then run: `./natural_earth.sh`. This will download the natural earth dataset and insert it into PostGIS under a database named `natural_earth`. The script is idempotent.
+
+## Import the OSM land data set
+Update the database credentials inside of `osm_land.sh`, then run: `./osm_land.sh`. This will download the natural earth dataset and insert it into PostGIS under a database named `osm`.
+
+## Install SQL helper functions
+Execute `postgis_helpers.sql` against your OSM database. Currently this contains a single utility function for converting building heights from strings to numbers which is important if you want to extrude buildings for the 3d effect.
+
+```bash
+psql -U tegola -d database-name -a -f postgis_helpers.sql
+```
+
+## Setup SQL indexes
+Execute `postgis_index.sql` against your OSM database.
+```bash
+psql -U tegola -d database-name -a -f postgis_index.sql
+```
+
+## Launch tegola 
+
+```bash
+./tegola -config=tegola.toml
+```
+
+Open your browser to localhost and the port you configured tegola to run on (i.e. localhost:8080) to see the built in viewer. 
+
 ## Data Layers
 To view these data layers in a map and query the features for a better understanding of each data layer, use the [Tegola-OSM Inspector](https://osm.tegola.io). The data layers described here are in the "Tegola-OSM" database as laid out in the tegola.toml (i.e., not the Natural Earth database that is specified in tegola-natural-earth.toml). 
 
@@ -130,8 +186,8 @@ Roads, airport runways, ferry routes, paths, etc.
 
 ### transport_areas
 Airports, etc.
-
 *polygons*
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 12-20| osm       | transport_areas  | name, class, type      | 
@@ -155,6 +211,7 @@ Fire stations, banks, embassies, government, police stations, schools, universit
 
 ### amenity_points
 Fire stations, banks, embassies, government, police stations, schools, universities, etc.
+
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | amenity_points  | name, type      | 
