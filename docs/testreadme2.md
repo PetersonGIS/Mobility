@@ -9,7 +9,6 @@ To view these data layers in a map and query the features for a better understan
 
 
 ### populated_places
-*points*
 | zoom | source   | table/layer   | data fields          | where |
 |------|----------|---------------|----------------------|-------|
 | 0-2  | ne       | ne_110m_populated_places  | scalerank, labelrank, name, min_zoom, featurecla, rank_max |
