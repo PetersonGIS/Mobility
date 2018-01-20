@@ -25,7 +25,6 @@ To view these data layers in a map and query the features for a better understan
 
 
 ### country_lines_disputed
-*lines*
 | zoom | source   | table/layer   | data fields          | where |
 |------|----------|---------------|----------------------|-------|
 | 3-4  | ne       | ne_50m_ne_50m_admin_0_boundary_lines_disputed_areas   | featurecla, name, min_zoom |
@@ -55,7 +54,6 @@ To view these data layers in a map and query the features for a better understan
 
 
 ### land
-*polygons*
 | zoom | source   | table/layer   | data fields          | where |
 |------|----------|---------------|----------------------|-------|
 | 0-2  | ne       | ne_110m_land  | featurecla, min_zoom |
@@ -89,7 +87,6 @@ Nature reserves, military land, forest, leisure, wood, etc.
 
 
 ### water_areas
-*polygons*
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 3-5  | osm       | water_areas_gen0  | name, class, type, area    | type IN ('water', 'pond', 'basin', 'canal', 'mill_pond', 'riverbank') AND area > 1000000000 |
@@ -121,7 +118,6 @@ Roads, airport runways, ferry routes, paths, etc.
 
 ### transport_areas
 Airports, etc.
-*polygons*
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 12-20| osm       | transport_areas  | name, class, type      | 
@@ -136,7 +132,6 @@ Airports, helipads, etc.
 
 ### amenity_areas
 Fire stations, banks, embassies, government, police stations, schools, universities, etc.
-*polygons*
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | amenity_areas  | name, type      | 
@@ -163,7 +158,6 @@ Man made, historic, military, barriers, power lines, etc.
 
 
 ### other_areas 
-*polygons*
 Man made, historic, military, power, barriers, piers, etc.
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
@@ -172,7 +166,6 @@ Man made, historic, military, power, barriers, piers, etc.
 
 
 ### buildings
-*polygons*
 | zoom | source   | table/layer   | data fields                       | where |
 |------|----------|---------------|-----------------------------------|-------|
 | 14-20| osm       | buildings  | name, height, type      |
