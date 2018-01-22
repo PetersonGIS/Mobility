@@ -21,8 +21,8 @@
       "url": "https://osm.tegola.io/capabilities/osm.json"
     }
   },
-  "sprite": "https://petersongis.github.io/Mobility/osm-tegola-spritesheet3",
-  "glyphs": "https://petersongis.github.io/Mobility/fonts/{fontstack}/{range}.pbf",
+  "sprite": "https://petersongis.github.io/Mobility/docs/osm-tegola-spritesheet3",
+  "glyphs": "https://petersongis.github.io/Mobility/docs/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
