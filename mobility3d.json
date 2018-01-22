@@ -18,11 +18,11 @@
   "sources": {
     "osm": {
       "type": "vector",
-      "url": "http://ec2-35-167-228-206.us-west-2.compute.amazonaws.com:9090/osm.json"
+      "url": "https://osm.tegola.io/maps/osm/{z}/{x}/{y}.pbf"
     }
   },
   "sprite": "https://petersongis.github.io/Mobility/osm_tegola_spritesheet3",
-  "glyphs": "http://demo.tegola.io/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "https://petersongis.github.io/Mobility/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
