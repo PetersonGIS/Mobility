@@ -43,7 +43,7 @@
     })
   });
 
-  fetch('https://rawgit.com/PetersonGIS/Mobility/master/mobility.json').then(function(response) {
+  fetch('https://rawgit.com/PetersonGIS/Mobility/master/Mobility.json').then(function(response) {
     response.json().then(function(glStyle) {
       olms.applyBackground(map, glStyle);
       olms.applyStyle(layer, glStyle, 'tegola-osm').then(function() {
