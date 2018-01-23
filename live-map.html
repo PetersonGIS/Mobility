@@ -2,8 +2,11 @@
 <html>
 <head>
   <title>Mobility</title>
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.4/ol.css">
+  <link rel="stylesheet" href="https://openlayers.org/en/v4.6.4/css/ol.css" type="text/css">
+    <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
+    <script src="https://openlayers.org/en/v4.6.4/build/ol.js"></script>
+    <script src="https://openlayers.org/en/v4.6.4/examples/resources/mapbox-streets-v6-style.js"></script>
   <style>
     html, body {
       height: 100%;
@@ -21,7 +24,6 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.4/ol.js"></script>
   <script src="https://rawgit.com/boundlessgeo/ol-mapbox-style/v2.10.1/dist/olms.js"></script>
   <script>
-
   var tilegrid = ol.tilegrid.createXYZ({tileSize: 512, maxZoom: 22});
   var layer = new ol.layer.VectorTile({
     source: new ol.source.VectorTile({
@@ -42,7 +44,6 @@
       maxResolution: 78271.51696402048
     })
   });
-
   fetch('https://rawgit.com/PetersonGIS/Mobility/master/Mobility.json').then(function(response) {
     response.json().then(function(glStyle) {
       olms.applyBackground(map, glStyle);
@@ -51,7 +52,6 @@
       });
     });
   });
-
   </script>
 </body>
 </html>
