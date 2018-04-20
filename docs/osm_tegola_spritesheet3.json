@@ -364,8 +364,8 @@
     "height":12,
     "pixelRatio":1,
     "width":12,
-    "x":206,
-    "y":427
+    "x":204,
+    "y":439
   }, 
 
   "fire_station-18": {
@@ -436,8 +436,8 @@
     "height":12,
     "pixelRatio":1,
     "width":12,
-    "x":206,
-    "y":441
+    "x":221,
+    "y":472
   }, 
 
   "government-18": {
@@ -576,6 +576,14 @@
     "y":1
   }, 
 
+  "military-fill4": {
+    "height":10,
+    "pixelRatio":1,
+    "width":10,
+    "x":208,
+    "y":427
+  }, 
+
   "mobile_phone-18": {
     "height":18,
     "pixelRatio":1,
@@ -684,8 +692,8 @@
     "height":13,
     "pixelRatio":1,
     "width":13,
-    "x":221,
-    "y":469
+    "x":208,
+    "y":488
   }, 
 
   "ne_parks": {
@@ -700,7 +708,7 @@
     "height":13,
     "pixelRatio":1,
     "width":13,
-    "x":220,
+    "x":218,
     "y":439
   }, 
 
@@ -708,16 +716,16 @@
     "height":13,
     "pixelRatio":1,
     "width":13,
-    "x":208,
-    "y":489
+    "x":221,
+    "y":457
   }, 
 
   "ne_Scientific station": {
     "height":13,
     "pixelRatio":1,
     "width":13,
-    "x":221,
-    "y":454
+    "x":233,
+    "y":442
   }, 
 
   "ngo-18": {
@@ -796,8 +804,8 @@
     "height":12,
     "pixelRatio":1,
     "width":12,
-    "x":223,
-    "y":484
+    "x":236,
+    "y":457
   }, 
 
   "prop-drinking_water-18": {
@@ -869,7 +877,7 @@
     "pixelRatio":1,
     "width":12,
     "x":223,
-    "y":498
+    "y":486
   }, 
 
   "school-18": {
@@ -964,8 +972,8 @@
     "height":12,
     "pixelRatio":1,
     "width":12,
-    "x":236,
-    "y":442
+    "x":223,
+    "y":500
   }, 
 
   "taxi-18": {
@@ -1221,7 +1229,7 @@
     "pixelRatio":1,
     "width":13,
     "x":206,
-    "y":455
+    "y":454
   }, 
 
   "topo_water-15": {
@@ -1229,23 +1237,23 @@
     "pixelRatio":1,
     "width":13,
     "x":206,
-    "y":472
+    "y":471
   }, 
 
   "tower-12": {
     "height":12,
     "pixelRatio":1,
     "width":12,
-    "x":236,
-    "y":456
+    "x":235,
+    "y":472
   }, 
 
   "townhall-12": {
     "height":12,
     "pixelRatio":1,
     "width":12,
-    "x":236,
-    "y":470
+    "x":237,
+    "y":486
   }, 
 
   "townhall-18": {
@@ -1269,7 +1277,7 @@
     "pixelRatio":1,
     "width":12,
     "x":237,
-    "y":484
+    "y":500
   }, 
 
   "university-18": {
