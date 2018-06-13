@@ -1,0 +1,35 @@
+{
+
+  "generic_shields": {
+    "height":70,
+    "pixelRatio":1,
+    "width":103,
+    "x":1,
+    "y":205
+  }, 
+
+  "us_hwy_shield": {
+    "height":106,
+    "pixelRatio":1,
+    "width":106,
+    "x":1,
+    "y":1
+  }, 
+
+  "us_hwy_shield_2": {
+    "height":70,
+    "pixelRatio":1,
+    "width":103,
+    "x":1,
+    "y":277
+  }, 
+
+  "US_US-2char": {
+    "height":94,
+    "pixelRatio":1,
+    "width":105,
+    "x":1,
+    "y":109
+  }
+
+}
