@@ -1,91 +1,115 @@
 {
 
   "brown": {
-    "height":41,
+    "height":55,
     "pixelRatio":1,
-    "width":55,
-    "x":287,
-    "y":74
+    "width":41,
+    "x":329,
+    "y":87
   }, 
 
   "Darkblue": {
-    "height":117,
+    "height":62,
     "pixelRatio":1,
-    "width":62,
-    "x":143,
-    "y":1
+    "width":117,
+    "x":1,
+    "y":168
   }, 
 
   "darkbrown": {
-    "height":41,
+    "height":53,
     "pixelRatio":1,
-    "width":53,
-    "x":344,
-    "y":74
+    "width":41,
+    "x":286,
+    "y":87
   }, 
 
   "darkgreen": {
-    "height":71,
+    "height":54,
     "pixelRatio":1,
-    "width":54,
-    "x":287,
+    "width":71,
+    "x":308,
+    "y":1
+  }, 
+
+  "greenblue": {
+    "height":165,
+    "pixelRatio":1,
+    "width":160,
+    "x":1,
     "y":1
   }, 
 
   "Lightblue": {
-    "height":121,
+    "height":140,
     "pixelRatio":1,
-    "width":140,
-    "x":1,
+    "width":121,
+    "x":163,
     "y":1
+  }, 
+
+  "lightbrown": {
+    "height":91,
+    "pixelRatio":1,
+    "width":31,
+    "x":177,
+    "y":143
   }, 
 
   "lightgreen": {
     "height":29,
     "pixelRatio":1,
     "width":32,
-    "x":399,
-    "y":58
+    "x":347,
+    "y":144
+  }, 
+
+  "orange": {
+    "height":73,
+    "pixelRatio":1,
+    "width":37,
+    "x":308,
+    "y":144
   }, 
 
   "pink": {
-    "height":55,
+    "height":62,
     "pixelRatio":1,
-    "width":62,
-    "x":373,
-    "y":1
+    "width":55,
+    "x":120,
+    "y":168
   }, 
 
   "purple": {
-    "height":71,
+    "height":28,
     "pixelRatio":1,
-    "width":28,
-    "x":343,
-    "y":1
+    "width":71,
+    "x":308,
+    "y":57
   }, 
 
   "Red": {
-    "height":96,
+    "height":78,
     "pixelRatio":1,
-    "width":78,
-    "x":207,
-    "y":1
+    "width":96,
+    "x":210,
+    "y":143
   }, 
 
   "white": {
-    "height":18,
+    "height":73,
     "pixelRatio":1,
-    "width":73,
-    "x":207,
-    "y":99
+    "width":18,
+    "x":286,
+    "y":1
   }, 
 
   "yellow": {
-    "height":32,
+    "height":28,
     "pixelRatio":1,
-    "width":28,
-    "x":399,
-    "y":89
+    "width":32,
+    "x":347,
+    "y":175
   }
 
 }
