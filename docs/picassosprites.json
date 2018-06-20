@@ -1,0 +1,91 @@
+{
+
+  "brown": {
+    "height":41,
+    "pixelRatio":1,
+    "width":55,
+    "x":287,
+    "y":74
+  }, 
+
+  "Darkblue": {
+    "height":117,
+    "pixelRatio":1,
+    "width":62,
+    "x":143,
+    "y":1
+  }, 
+
+  "darkbrown": {
+    "height":41,
+    "pixelRatio":1,
+    "width":53,
+    "x":344,
+    "y":74
+  }, 
+
+  "darkgreen": {
+    "height":71,
+    "pixelRatio":1,
+    "width":54,
+    "x":287,
+    "y":1
+  }, 
+
+  "Lightblue": {
+    "height":121,
+    "pixelRatio":1,
+    "width":140,
+    "x":1,
+    "y":1
+  }, 
+
+  "lightgreen": {
+    "height":29,
+    "pixelRatio":1,
+    "width":32,
+    "x":399,
+    "y":58
+  }, 
+
+  "pink": {
+    "height":55,
+    "pixelRatio":1,
+    "width":62,
+    "x":373,
+    "y":1
+  }, 
+
+  "purple": {
+    "height":71,
+    "pixelRatio":1,
+    "width":28,
+    "x":343,
+    "y":1
+  }, 
+
+  "Red": {
+    "height":96,
+    "pixelRatio":1,
+    "width":78,
+    "x":207,
+    "y":1
+  }, 
+
+  "white": {
+    "height":18,
+    "pixelRatio":1,
+    "width":73,
+    "x":207,
+    "y":99
+  }, 
+
+  "yellow": {
+    "height":32,
+    "pixelRatio":1,
+    "width":28,
+    "x":399,
+    "y":89
+  }
+
+}
