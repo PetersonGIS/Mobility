@@ -1,35 +1,147 @@
 {
 
-  "generic_shields": {
-    "height":70,
+  "alcohol": {
+    "height":15,
     "pixelRatio":1,
-    "width":103,
-    "x":1,
-    "y":205
+    "width":15,
+    "x":270,
+    "y":1
   }, 
 
-  "us_hwy_shield": {
-    "height":106,
+  "bus_stop": {
+    "height":8,
     "pixelRatio":1,
-    "width":106,
+    "width":8,
+    "x":268,
+    "y":52
+  }, 
+
+  "canada2c": {
+    "height":25,
+    "pixelRatio":1,
+    "width":25,
+    "x":165,
+    "y":1
+  }, 
+
+  "mexico1c": {
+    "height":25,
+    "pixelRatio":1,
+    "width":24,
+    "x":192,
+    "y":1
+  }, 
+
+  "mexico2c": {
+    "height":25,
+    "pixelRatio":1,
+    "width":24,
+    "x":218,
+    "y":1
+  }, 
+
+  "mountain_peak": {
+    "height":61,
+    "pixelRatio":1,
+    "width":84,
     "x":1,
     "y":1
   }, 
 
-  "us_hwy_shield_2": {
-    "height":70,
+  "mountain_peak_small": {
+    "height":42,
     "pixelRatio":1,
-    "width":103,
-    "x":1,
-    "y":277
+    "width":76,
+    "x":87,
+    "y":1
   }, 
 
-  "US_US-2char": {
-    "height":94,
+  "restaurant": {
+    "height":15,
     "pixelRatio":1,
-    "width":105,
-    "x":1,
-    "y":109
+    "width":15,
+    "x":270,
+    "y":18
+  }, 
+
+  "school": {
+    "height":15,
+    "pixelRatio":1,
+    "width":15,
+    "x":268,
+    "y":35
+  }, 
+
+  "us1b": {
+    "height":24,
+    "pixelRatio":1,
+    "width":24,
+    "x":244,
+    "y":1
+  }, 
+
+  "us2": {
+    "height":23,
+    "pixelRatio":1,
+    "width":23,
+    "x":195,
+    "y":28
+  }, 
+
+  "us2b": {
+    "height":23,
+    "pixelRatio":1,
+    "width":23,
+    "x":220,
+    "y":28
+  }, 
+
+  "us3": {
+    "height":17,
+    "pixelRatio":1,
+    "width":21,
+    "x":87,
+    "y":45
+  }, 
+
+  "us3b": {
+    "height":17,
+    "pixelRatio":1,
+    "width":21,
+    "x":110,
+    "y":45
+  }, 
+
+  "us4": {
+    "height":15,
+    "pixelRatio":1,
+    "width":21,
+    "x":245,
+    "y":27
+  }, 
+
+  "us4b": {
+    "height":15,
+    "pixelRatio":1,
+    "width":21,
+    "x":245,
+    "y":44
+  }, 
+
+  "us_hwy_shield_2": {
+    "height":19,
+    "pixelRatio":1,
+    "width":28,
+    "x":165,
+    "y":28
+  }, 
+
+  "waterfall": {
+    "height":16,
+    "pixelRatio":1,
+    "width":26,
+    "x":133,
+    "y":45
   }
 
 }
