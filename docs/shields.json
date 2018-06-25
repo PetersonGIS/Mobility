@@ -3,32 +3,32 @@
   "alcohol": {
     "height":15,
     "pixelRatio":1,
-    "width":15,
-    "x":270,
-    "y":1
+    "width":3,
+    "x":292,
+    "y":18
   }, 
 
   "bus_stop": {
-    "height":8,
+    "height":29,
     "pixelRatio":1,
-    "width":8,
-    "x":268,
-    "y":52
+    "width":28,
+    "x":165,
+    "y":1
   }, 
 
   "canada2c": {
     "height":25,
     "pixelRatio":1,
     "width":25,
-    "x":165,
-    "y":1
+    "x":184,
+    "y":32
   }, 
 
   "mexico1c": {
     "height":25,
     "pixelRatio":1,
     "width":24,
-    "x":192,
+    "x":195,
     "y":1
   }, 
 
@@ -36,8 +36,8 @@
     "height":25,
     "pixelRatio":1,
     "width":24,
-    "x":218,
-    "y":1
+    "x":211,
+    "y":28
   }, 
 
   "mountain_peak": {
@@ -60,23 +60,23 @@
     "height":15,
     "pixelRatio":1,
     "width":15,
-    "x":270,
-    "y":18
+    "x":262,
+    "y":47
   }, 
 
   "school": {
     "height":15,
     "pixelRatio":1,
     "width":15,
-    "x":268,
-    "y":35
+    "x":279,
+    "y":47
   }, 
 
   "us1b": {
     "height":24,
     "pixelRatio":1,
     "width":24,
-    "x":244,
+    "x":221,
     "y":1
   }, 
 
@@ -84,16 +84,16 @@
     "height":23,
     "pixelRatio":1,
     "width":23,
-    "x":195,
-    "y":28
+    "x":237,
+    "y":27
   }, 
 
   "us2b": {
     "height":23,
     "pixelRatio":1,
     "width":23,
-    "x":220,
-    "y":28
+    "x":247,
+    "y":1
   }, 
 
   "us3": {
@@ -116,24 +116,24 @@
     "height":15,
     "pixelRatio":1,
     "width":21,
-    "x":245,
-    "y":27
+    "x":161,
+    "y":45
   }, 
 
   "us4b": {
     "height":15,
     "pixelRatio":1,
     "width":21,
-    "x":245,
-    "y":44
+    "x":272,
+    "y":1
   }, 
 
   "us_hwy_shield_2": {
     "height":19,
     "pixelRatio":1,
     "width":28,
-    "x":165,
-    "y":28
+    "x":262,
+    "y":26
   }, 
 
   "waterfall": {
