@@ -1,82 +1,122 @@
 {
 
-  "alcohol": {
-    "height":15,
+  "blackdot": {
+    "height":10,
     "pixelRatio":1,
-    "width":3,
-    "x":292,
-    "y":18
+    "width":10,
+    "x":157,
+    "y":48
+  }, 
+
+  "brownarrow": {
+    "height":13,
+    "pixelRatio":1,
+    "width":18,
+    "x":53,
+    "y":48
   }, 
 
   "bus_stop": {
-    "height":29,
+    "height":13,
     "pixelRatio":1,
-    "width":28,
-    "x":165,
-    "y":1
+    "width":12,
+    "x":157,
+    "y":33
   }, 
 
   "canada2c": {
     "height":25,
     "pixelRatio":1,
     "width":25,
-    "x":184,
-    "y":32
+    "x":1,
+    "y":1
+  }, 
+
+  "grayarrow": {
+    "height":13,
+    "pixelRatio":1,
+    "width":18,
+    "x":73,
+    "y":48
+  }, 
+
+  "graysquare": {
+    "height":10,
+    "pixelRatio":1,
+    "width":10,
+    "x":116,
+    "y":37
   }, 
 
   "mexico1c": {
     "height":25,
     "pixelRatio":1,
     "width":24,
-    "x":195,
-    "y":1
+    "x":1,
+    "y":28
   }, 
 
   "mexico2c": {
     "height":25,
     "pixelRatio":1,
     "width":24,
-    "x":211,
+    "x":27,
     "y":28
   }, 
 
   "mountain_peak": {
-    "height":61,
+    "height":15,
     "pixelRatio":1,
-    "width":84,
-    "x":1,
-    "y":1
+    "width":21,
+    "x":111,
+    "y":20
   }, 
 
   "mountain_peak_small": {
-    "height":42,
+    "height":11,
     "pixelRatio":1,
-    "width":76,
-    "x":87,
+    "width":19,
+    "x":116,
+    "y":50
+  }, 
+
+  "orangedot": {
+    "height":10,
+    "pixelRatio":1,
+    "width":10,
+    "x":137,
+    "y":50
+  }, 
+
+  "purplearrow": {
+    "height":13,
+    "pixelRatio":1,
+    "width":18,
+    "x":150,
     "y":1
   }, 
 
-  "restaurant": {
-    "height":15,
+  "redsquare": {
+    "height":13,
     "pixelRatio":1,
-    "width":15,
-    "x":262,
-    "y":47
+    "width":13,
+    "x":134,
+    "y":18
   }, 
 
   "school": {
     "height":15,
     "pixelRatio":1,
     "width":15,
-    "x":279,
-    "y":47
+    "x":150,
+    "y":16
   }, 
 
   "us1b": {
     "height":24,
     "pixelRatio":1,
     "width":24,
-    "x":221,
+    "x":28,
     "y":1
   }, 
 
@@ -84,15 +124,15 @@
     "height":23,
     "pixelRatio":1,
     "width":23,
-    "x":237,
-    "y":27
+    "x":54,
+    "y":1
   }, 
 
   "us2b": {
     "height":23,
     "pixelRatio":1,
     "width":23,
-    "x":247,
+    "x":79,
     "y":1
   }, 
 
@@ -100,48 +140,48 @@
     "height":17,
     "pixelRatio":1,
     "width":21,
-    "x":87,
-    "y":45
+    "x":93,
+    "y":44
   }, 
 
   "us3b": {
     "height":17,
     "pixelRatio":1,
     "width":21,
-    "x":110,
-    "y":45
+    "x":104,
+    "y":1
   }, 
 
   "us4": {
     "height":15,
     "pixelRatio":1,
     "width":21,
-    "x":161,
-    "y":45
+    "x":127,
+    "y":1
   }, 
 
   "us4b": {
     "height":15,
     "pixelRatio":1,
     "width":21,
-    "x":272,
-    "y":1
+    "x":134,
+    "y":33
   }, 
 
   "us_hwy_shield_2": {
     "height":19,
     "pixelRatio":1,
     "width":28,
-    "x":262,
-    "y":26
+    "x":53,
+    "y":27
   }, 
 
   "waterfall": {
     "height":16,
     "pixelRatio":1,
     "width":26,
-    "x":133,
-    "y":45
+    "x":83,
+    "y":26
   }
 
 }
