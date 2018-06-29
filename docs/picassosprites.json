@@ -1,115 +1,123 @@
 {
 
   "brown": {
-    "height":55,
+    "height":41,
     "pixelRatio":1,
-    "width":41,
-    "x":329,
-    "y":87
+    "width":55,
+    "x":408,
+    "y":665
   }, 
 
   "Darkblue": {
     "height":62,
     "pixelRatio":1,
     "width":117,
-    "x":1,
-    "y":168
+    "x":310,
+    "y":537
   }, 
 
   "darkbrown": {
     "height":53,
     "pixelRatio":1,
     "width":41,
-    "x":286,
-    "y":87
+    "x":254,
+    "y":660
   }, 
 
   "darkgreen": {
-    "height":54,
+    "height":71,
     "pixelRatio":1,
-    "width":71,
-    "x":308,
-    "y":1
+    "width":54,
+    "x":168,
+    "y":660
   }, 
 
   "greenblue": {
-    "height":165,
+    "height":160,
     "pixelRatio":1,
-    "width":160,
+    "width":165,
     "x":1,
-    "y":1
+    "y":537
   }, 
 
   "Lightblue": {
-    "height":140,
+    "height":121,
     "pixelRatio":1,
-    "width":121,
-    "x":163,
-    "y":1
+    "width":140,
+    "x":168,
+    "y":537
   }, 
 
   "lightbrown": {
-    "height":91,
+    "height":31,
     "pixelRatio":1,
-    "width":31,
-    "x":177,
-    "y":143
+    "width":91,
+    "x":1,
+    "y":699
   }, 
 
   "lightgreen": {
-    "height":29,
+    "height":32,
     "pixelRatio":1,
-    "width":32,
-    "x":347,
-    "y":144
+    "width":29,
+    "x":94,
+    "y":699
   }, 
 
   "orange": {
-    "height":73,
+    "height":37,
     "pixelRatio":1,
-    "width":37,
-    "x":308,
-    "y":144
+    "width":73,
+    "x":297,
+    "y":681
+  }, 
+
+  "pavement": {
+    "height":534,
+    "pixelRatio":1,
+    "width":462,
+    "x":1,
+    "y":1
   }, 
 
   "pink": {
     "height":62,
     "pixelRatio":1,
     "width":55,
-    "x":120,
-    "y":168
+    "x":408,
+    "y":601
   }, 
 
   "purple": {
-    "height":28,
+    "height":71,
     "pixelRatio":1,
-    "width":71,
-    "x":308,
-    "y":57
+    "width":28,
+    "x":224,
+    "y":660
   }, 
 
   "Red": {
     "height":78,
     "pixelRatio":1,
     "width":96,
-    "x":210,
-    "y":143
+    "x":310,
+    "y":601
   }, 
 
   "white": {
-    "height":73,
+    "height":18,
     "pixelRatio":1,
-    "width":18,
-    "x":286,
-    "y":1
+    "width":73,
+    "x":372,
+    "y":708
   }, 
 
   "yellow": {
-    "height":28,
+    "height":32,
     "pixelRatio":1,
-    "width":32,
-    "x":347,
-    "y":175
+    "width":28,
+    "x":125,
+    "y":699
   }
 
 }
