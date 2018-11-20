@@ -5,15 +5,15 @@
     "pixelRatio":1,
     "width":42,
     "x":45,
-    "y":406
+    "y":467
   }, 
 
   "agriculture_pattern": {
     "height":20,
     "pixelRatio":1,
     "width":20,
-    "x":101,
-    "y":65
+    "x":99,
+    "y":159
   }, 
 
   "bank": {
@@ -21,23 +21,23 @@
     "pixelRatio":1,
     "width":54,
     "x":65,
-    "y":303
+    "y":295
   }, 
 
   "building": {
     "height":42,
     "pixelRatio":1,
     "width":42,
-    "x":45,
-    "y":450
+    "x":1,
+    "y":498
   }, 
 
   "cafe": {
     "height":42,
     "pixelRatio":1,
     "width":42,
-    "x":1,
-    "y":451
+    "x":45,
+    "y":511
   }, 
 
   "cemetery": {
@@ -45,7 +45,7 @@
     "pixelRatio":1,
     "width":28,
     "x":99,
-    "y":121
+    "y":135
   }, 
 
   "commerce_pattern": {
@@ -53,7 +53,7 @@
     "pixelRatio":1,
     "width":20,
     "x":99,
-    "y":145
+    "y":401
   }, 
 
   "commercial": {
@@ -76,8 +76,8 @@
     "height":48,
     "pixelRatio":1,
     "width":54,
-    "x":1,
-    "y":341
+    "x":57,
+    "y":351
   }, 
 
   "dwellings_pattern": {
@@ -85,7 +85,7 @@
     "pixelRatio":1,
     "width":20,
     "x":99,
-    "y":167
+    "y":423
   }, 
 
   "education": {
@@ -93,47 +93,47 @@
     "pixelRatio":1,
     "width":34,
     "x":89,
-    "y":536
+    "y":535
   }, 
 
   "education_pattern": {
     "height":20,
     "pixelRatio":1,
     "width":20,
-    "x":1,
-    "y":667
+    "x":99,
+    "y":445
   }, 
 
   "embassy": {
     "height":54,
     "pixelRatio":1,
     "width":34,
-    "x":87,
-    "y":634
+    "x":89,
+    "y":591
   }, 
 
   "fuel": {
     "height":54,
     "pixelRatio":1,
     "width":32,
-    "x":1,
-    "y":611
+    "x":85,
+    "y":683
   }, 
 
   "government": {
     "height":40,
     "pixelRatio":1,
     "width":42,
-    "x":1,
-    "y":495
+    "x":45,
+    "y":599
   }, 
 
   "government_pattern": {
     "height":20,
     "pixelRatio":1,
     "width":20,
-    "x":23,
-    "y":667
+    "x":43,
+    "y":713
   }, 
 
   "hospital": {
@@ -149,23 +149,23 @@
     "pixelRatio":1,
     "width":54,
     "x":73,
-    "y":189
+    "y":181
   }, 
 
   "hotel": {
     "height":42,
     "pixelRatio":1,
     "width":42,
-    "x":45,
-    "y":406
+    "x":1,
+    "y":542
   }, 
 
   "islam": {
     "height":72,
     "pixelRatio":1,
     "width":40,
-    "x":45,
-    "y":568
+    "x":1,
+    "y":668
   }, 
 
   "Judaism": {
@@ -173,15 +173,15 @@
     "pixelRatio":1,
     "width":42,
     "x":1,
-    "y":391
+    "y":438
   }, 
 
   "Law_enforcement": {
     "height":32,
     "pixelRatio":1,
     "width":18,
-    "x":57,
-    "y":642
+    "x":65,
+    "y":713
   }, 
 
   "Lookout": {
@@ -189,7 +189,7 @@
     "pixelRatio":1,
     "width":54,
     "x":73,
-    "y":247
+    "y":239
   }, 
 
   "marketplace": {
@@ -197,7 +197,7 @@
     "pixelRatio":1,
     "width":28,
     "x":99,
-    "y":87
+    "y":101
   }, 
 
   "Mine_quarry": {
@@ -205,23 +205,23 @@
     "pixelRatio":1,
     "width":42,
     "x":1,
-    "y":537
+    "y":630
   }, 
 
   "monument": {
     "height":40,
     "pixelRatio":1,
     "width":40,
-    "x":87,
-    "y":592
+    "x":43,
+    "y":671
   }, 
 
   "orchard_pattern": {
     "height":34,
     "pixelRatio":1,
     "width":34,
-    "x":1,
-    "y":575
+    "x":89,
+    "y":647
   }, 
 
   "Pagoda": {
@@ -245,7 +245,7 @@
     "pixelRatio":1,
     "width":24,
     "x":101,
-    "y":29
+    "y":65
   }, 
 
   "post_office": {
@@ -253,7 +253,7 @@
     "pixelRatio":1,
     "width":42,
     "x":45,
-    "y":538
+    "y":641
   }, 
 
   "prison": {
@@ -261,7 +261,7 @@
     "pixelRatio":1,
     "width":42,
     "x":45,
-    "y":494
+    "y":555
   }, 
 
   "restaurant": {
@@ -269,7 +269,7 @@
     "pixelRatio":1,
     "width":42,
     "x":1,
-    "y":451
+    "y":586
   }, 
 
   "school": {
@@ -277,7 +277,7 @@
     "pixelRatio":1,
     "width":38,
     "x":89,
-    "y":406
+    "y":467
   }, 
 
   "storage_tank": {
@@ -300,24 +300,24 @@
     "height":20,
     "pixelRatio":1,
     "width":20,
-    "x":35,
-    "y":642
+    "x":43,
+    "y":735
   }, 
 
   "tree": {
-    "height":60,
+    "height":64,
     "pixelRatio":1,
-    "width":38,
-    "x":89,
-    "y":474
+    "width":42,
+    "x":55,
+    "y":401
   }, 
 
   "university": {
     "height":45,
     "pixelRatio":1,
     "width":52,
-    "x":57,
-    "y":359
+    "x":1,
+    "y":391
   }
 
 }
