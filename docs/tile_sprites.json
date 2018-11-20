@@ -32,12 +32,12 @@
     "y":1
   }, 
 
-  "Cemetery": {
-    "height":16,
+  "cemetery": {
+    "height":11,
     "pixelRatio":1,
-    "width":21,
-    "x":287,
-    "y":47
+    "width":14,
+    "x":352,
+    "y":1
   }, 
 
   "commerce_pattern": {
@@ -52,8 +52,8 @@
     "height":17,
     "pixelRatio":1,
     "width":12,
-    "x":329,
-    "y":46
+    "x":333,
+    "y":23
   }, 
 
   "Community_center": {
@@ -156,8 +156,8 @@
     "height":16,
     "pixelRatio":1,
     "width":9,
-    "x":343,
-    "y":41
+    "x":303,
+    "y":47
   }, 
 
   "Lookout": {
@@ -172,16 +172,16 @@
     "height":16,
     "pixelRatio":1,
     "width":14,
-    "x":333,
-    "y":23
+    "x":287,
+    "y":47
   }, 
 
   "Mine_quarry": {
     "height":18,
     "pixelRatio":1,
     "width":21,
-    "x":352,
-    "y":1
+    "x":347,
+    "y":29
   }, 
 
   "monument": {
@@ -196,7 +196,7 @@
     "height":17,
     "pixelRatio":1,
     "width":17,
-    "x":310,
+    "x":314,
     "y":46
   }, 
 
@@ -220,16 +220,16 @@
     "height":17,
     "pixelRatio":1,
     "width":12,
-    "x":329,
-    "y":46
+    "x":333,
+    "y":23
   }, 
 
   "Postal_activities": {
     "height":14,
     "pixelRatio":1,
     "width":21,
-    "x":352,
-    "y":21
+    "x":333,
+    "y":49
   }, 
 
   "Prison": {
@@ -260,8 +260,8 @@
     "height":13,
     "pixelRatio":1,
     "width":13,
-    "x":354,
-    "y":37
+    "x":352,
+    "y":14
   }, 
 
   "Temple1": {

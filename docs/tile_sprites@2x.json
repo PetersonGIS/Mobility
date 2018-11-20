@@ -12,8 +12,8 @@
     "height":20,
     "pixelRatio":1,
     "width":20,
-    "x":99,
-    "y":71
+    "x":1,
+    "y":661
   }, 
 
   "bank": {
@@ -32,12 +32,12 @@
     "y":532
   }, 
 
-  "Cemetery": {
-    "height":32,
+  "cemetery": {
+    "height":22,
     "pixelRatio":1,
-    "width":42,
-    "x":79,
-    "y":576
+    "width":28,
+    "x":99,
+    "y":35
   }, 
 
   "commerce_pattern": {
@@ -53,7 +53,7 @@
     "pixelRatio":1,
     "width":24,
     "x":99,
-    "y":35
+    "y":59
   }, 
 
   "Community_center": {
@@ -109,7 +109,7 @@
     "pixelRatio":1,
     "width":42,
     "x":79,
-    "y":610
+    "y":576
   }, 
 
   "government_pattern": {
@@ -180,8 +180,8 @@
     "height":36,
     "pixelRatio":1,
     "width":42,
-    "x":45,
-    "y":652
+    "x":79,
+    "y":618
   }, 
 
   "monument": {
@@ -196,8 +196,8 @@
     "height":34,
     "pixelRatio":1,
     "width":34,
-    "x":89,
-    "y":652
+    "x":37,
+    "y":647
   }, 
 
   "Pagoda": {
@@ -221,15 +221,15 @@
     "pixelRatio":1,
     "width":24,
     "x":99,
-    "y":35
+    "y":59
   }, 
 
   "Postal_activities": {
     "height":28,
     "pixelRatio":1,
     "width":42,
-    "x":1,
-    "y":661
+    "x":73,
+    "y":656
   }, 
 
   "Prison": {
