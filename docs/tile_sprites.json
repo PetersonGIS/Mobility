@@ -1,6 +1,6 @@
 {
 
-  "Accomodation": {
+  "accomodation": {
     "height":21,
     "pixelRatio":1,
     "width":21,
@@ -28,8 +28,16 @@
     "height":21,
     "pixelRatio":1,
     "width":21,
-    "x":307,
+    "x":284,
     "y":1
+  }, 
+
+  "cafe": {
+    "height":21,
+    "pixelRatio":1,
+    "width":21,
+    "x":287,
+    "y":24
   }, 
 
   "cemetery": {
@@ -56,7 +64,15 @@
     "y":23
   }, 
 
-  "Community_center": {
+  "community_center": {
+    "height":24,
+    "pixelRatio":1,
+    "width":27,
+    "x":88,
+    "y":39
+  }, 
+
+  "community_centre": {
     "height":24,
     "pixelRatio":1,
     "width":27,
@@ -72,7 +88,7 @@
     "y":53
   }, 
 
-  "Education": {
+  "education": {
     "height":27,
     "pixelRatio":1,
     "width":17,
@@ -88,7 +104,7 @@
     "y":53
   }, 
 
-  "Embassy": {
+  "embassy": {
     "height":27,
     "pixelRatio":1,
     "width":17,
@@ -104,7 +120,7 @@
     "y":30
   }, 
 
-  "Government": {
+  "government": {
     "height":20,
     "pixelRatio":1,
     "width":21,
@@ -120,7 +136,15 @@
     "y":53
   }, 
 
-  "Hospital": {
+  "hospital": {
+    "height":32,
+    "pixelRatio":1,
+    "width":31,
+    "x":182,
+    "y":1
+  }, 
+
+  "hospital3": {
     "height":28,
     "pixelRatio":1,
     "width":27,
@@ -128,12 +152,12 @@
     "y":35
   }, 
 
-  "hospital2": {
-    "height":32,
+  "hotel": {
+    "height":21,
     "pixelRatio":1,
-    "width":31,
-    "x":182,
-    "y":1
+    "width":21,
+    "x":146,
+    "y":37
   }, 
 
   "islam": {
@@ -224,7 +248,7 @@
     "y":23
   }, 
 
-  "Postal_activities": {
+  "post_office": {
     "height":14,
     "pixelRatio":1,
     "width":21,
@@ -232,15 +256,15 @@
     "y":49
   }, 
 
-  "Prison": {
+  "prison": {
     "height":21,
     "pixelRatio":1,
     "width":21,
-    "x":284,
+    "x":307,
     "y":1
   }, 
 
-  "Restaurant": {
+  "restaurant": {
     "height":21,
     "pixelRatio":1,
     "width":21,
@@ -248,7 +272,7 @@
     "y":24
   }, 
 
-  "School": {
+  "school": {
     "height":33,
     "pixelRatio":1,
     "width":19,
@@ -256,7 +280,7 @@
     "y":1
   }, 
 
-  "Storage_tank": {
+  "storage_tank": {
     "height":13,
     "pixelRatio":1,
     "width":13,
