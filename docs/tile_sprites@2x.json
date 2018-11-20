@@ -1,0 +1,299 @@
+{
+
+  "Accomodation": {
+    "height":42,
+    "pixelRatio":1,
+    "width":42,
+    "x":41,
+    "y":500
+  }, 
+
+  "agriculture_pattern": {
+    "height":20,
+    "pixelRatio":1,
+    "width":20,
+    "x":99,
+    "y":71
+  }, 
+
+  "bank": {
+    "height":54,
+    "pixelRatio":1,
+    "width":54,
+    "x":43,
+    "y":341
+  }, 
+
+  "building": {
+    "height":42,
+    "pixelRatio":1,
+    "width":42,
+    "x":85,
+    "y":532
+  }, 
+
+  "Cemetery": {
+    "height":32,
+    "pixelRatio":1,
+    "width":42,
+    "x":79,
+    "y":576
+  }, 
+
+  "commerce_pattern": {
+    "height":20,
+    "pixelRatio":1,
+    "width":20,
+    "x":101,
+    "y":329
+  }, 
+
+  "commercial": {
+    "height":34,
+    "pixelRatio":1,
+    "width":24,
+    "x":99,
+    "y":35
+  }, 
+
+  "Community_center": {
+    "height":48,
+    "pixelRatio":1,
+    "width":54,
+    "x":65,
+    "y":217
+  }, 
+
+  "dwellings_pattern": {
+    "height":20,
+    "pixelRatio":1,
+    "width":20,
+    "x":99,
+    "y":351
+  }, 
+
+  "Education": {
+    "height":54,
+    "pixelRatio":1,
+    "width":34,
+    "x":1,
+    "y":605
+  }, 
+
+  "education_pattern": {
+    "height":20,
+    "pixelRatio":1,
+    "width":20,
+    "x":99,
+    "y":373
+  }, 
+
+  "Embassy": {
+    "height":54,
+    "pixelRatio":1,
+    "width":34,
+    "x":41,
+    "y":444
+  }, 
+
+  "fuel": {
+    "height":54,
+    "pixelRatio":1,
+    "width":32,
+    "x":45,
+    "y":544
+  }, 
+
+  "Government": {
+    "height":40,
+    "pixelRatio":1,
+    "width":42,
+    "x":79,
+    "y":610
+  }, 
+
+  "government_pattern": {
+    "height":20,
+    "pixelRatio":1,
+    "width":20,
+    "x":97,
+    "y":397
+  }, 
+
+  "Hospital": {
+    "height":56,
+    "pixelRatio":1,
+    "width":54,
+    "x":73,
+    "y":103
+  }, 
+
+  "hospital2": {
+    "height":64,
+    "pixelRatio":1,
+    "width":62,
+    "x":1,
+    "y":205
+  }, 
+
+  "islam": {
+    "height":72,
+    "pixelRatio":1,
+    "width":40,
+    "x":1,
+    "y":341
+  }, 
+
+  "Judaism": {
+    "height":58,
+    "pixelRatio":1,
+    "width":42,
+    "x":1,
+    "y":545
+  }, 
+
+  "Law_enforcement": {
+    "height":32,
+    "pixelRatio":1,
+    "width":18,
+    "x":101,
+    "y":295
+  }, 
+
+  "Lookout": {
+    "height":54,
+    "pixelRatio":1,
+    "width":54,
+    "x":73,
+    "y":161
+  }, 
+
+  "marketplace": {
+    "height":32,
+    "pixelRatio":1,
+    "width":28,
+    "x":99,
+    "y":1
+  }, 
+
+  "Mine_quarry": {
+    "height":36,
+    "pixelRatio":1,
+    "width":42,
+    "x":45,
+    "y":652
+  }, 
+
+  "monument": {
+    "height":40,
+    "pixelRatio":1,
+    "width":40,
+    "x":37,
+    "y":605
+  }, 
+
+  "orchard_pattern": {
+    "height":34,
+    "pixelRatio":1,
+    "width":34,
+    "x":89,
+    "y":652
+  }, 
+
+  "Pagoda": {
+    "height":100,
+    "pixelRatio":1,
+    "width":70,
+    "x":1,
+    "y":103
+  }, 
+
+  "Pagoda2": {
+    "height":100,
+    "pixelRatio":1,
+    "width":96,
+    "x":1,
+    "y":1
+  }, 
+
+  "pharmacy": {
+    "height":34,
+    "pixelRatio":1,
+    "width":24,
+    "x":99,
+    "y":35
+  }, 
+
+  "Postal_activities": {
+    "height":28,
+    "pixelRatio":1,
+    "width":42,
+    "x":1,
+    "y":661
+  }, 
+
+  "Prison": {
+    "height":42,
+    "pixelRatio":1,
+    "width":42,
+    "x":77,
+    "y":444
+  }, 
+
+  "Restaurant": {
+    "height":42,
+    "pixelRatio":1,
+    "width":42,
+    "x":85,
+    "y":488
+  }, 
+
+  "School": {
+    "height":66,
+    "pixelRatio":1,
+    "width":38,
+    "x":1,
+    "y":415
+  }, 
+
+  "Storage_tank": {
+    "height":26,
+    "pixelRatio":1,
+    "width":26,
+    "x":101,
+    "y":267
+  }, 
+
+  "Temple1": {
+    "height":68,
+    "pixelRatio":1,
+    "width":98,
+    "x":1,
+    "y":271
+  }, 
+
+  "transportation_pattern": {
+    "height":20,
+    "pixelRatio":1,
+    "width":20,
+    "x":97,
+    "y":419
+  }, 
+
+  "tree": {
+    "height":60,
+    "pixelRatio":1,
+    "width":38,
+    "x":1,
+    "y":483
+  }, 
+
+  "university": {
+    "height":45,
+    "pixelRatio":1,
+    "width":52,
+    "x":43,
+    "y":397
+  }
+
+}
