@@ -44,7 +44,7 @@
     "height":11,
     "pixelRatio":1,
     "width":14,
-    "x":210,
+    "x":213,
     "y":114
   }, 
 
@@ -68,8 +68,8 @@
     "height":17,
     "pixelRatio":1,
     "width":12,
-    "x":265,
-    "y":82
+    "x":232,
+    "y":1
   }, 
 
   "community_center": {
@@ -105,11 +105,11 @@
   }, 
 
   "education_pattern": {
-    "height":2,
+    "height":4,
     "pixelRatio":1,
-    "width":2,
-    "x":107,
-    "y":91
+    "width":4,
+    "x":180,
+    "y":121
   }, 
 
   "embassy": {
@@ -133,14 +133,14 @@
     "pixelRatio":1,
     "width":21,
     "x":253,
-    "y":24
+    "y":47
   }, 
 
   "government_pattern": {
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":180,
+    "x":186,
     "y":121
   }, 
 
@@ -188,7 +188,7 @@
     "height":16,
     "pixelRatio":1,
     "width":9,
-    "x":242,
+    "x":245,
     "y":111
   }, 
 
@@ -204,7 +204,7 @@
     "height":16,
     "pixelRatio":1,
     "width":14,
-    "x":226,
+    "x":229,
     "y":111
   }, 
 
@@ -212,8 +212,8 @@
     "height":18,
     "pixelRatio":1,
     "width":21,
-    "x":253,
-    "y":46
+    "x":245,
+    "y":69
   }, 
 
   "monument": {
@@ -221,7 +221,7 @@
     "pixelRatio":1,
     "width":20,
     "x":243,
-    "y":82
+    "y":89
   }, 
 
   "orchard_pattern": {
@@ -253,22 +253,22 @@
     "pixelRatio":1,
     "width":12,
     "x":265,
-    "y":101
+    "y":89
   }, 
 
   "post_office": {
     "height":14,
     "pixelRatio":1,
     "width":21,
-    "x":253,
-    "y":66
+    "x":256,
+    "y":111
   }, 
 
   "prison": {
     "height":21,
     "pixelRatio":1,
     "width":21,
-    "x":232,
+    "x":253,
     "y":1
   }, 
 
@@ -276,8 +276,8 @@
     "height":21,
     "pixelRatio":1,
     "width":21,
-    "x":255,
-    "y":1
+    "x":253,
+    "y":24
   }, 
 
   "school": {
@@ -292,7 +292,7 @@
     "height":13,
     "pixelRatio":1,
     "width":13,
-    "x":195,
+    "x":198,
     "y":114
   }, 
 
@@ -308,7 +308,7 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":186,
+    "x":192,
     "y":121
   }, 
 
