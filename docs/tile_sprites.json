@@ -12,8 +12,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":183,
-    "y":91
+    "x":294,
+    "y":23
   }, 
 
   "bank": {
@@ -76,8 +76,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":294,
-    "y":23
+    "x":285,
+    "y":56
   }, 
 
   "commercial": {
@@ -116,8 +116,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":285,
-    "y":56
+    "x":249,
+    "y":117
   }, 
 
   "education": {
@@ -133,7 +133,7 @@
     "pixelRatio":1,
     "width":4,
     "x":249,
-    "y":117
+    "y":123
   }, 
 
   "electrified_railway": {
@@ -188,8 +188,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":249,
-    "y":123
+    "x":286,
+    "y":78
   }, 
 
   "grassland_pattern": {
@@ -324,8 +324,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":286,
-    "y":78
+    "x":279,
+    "y":108
   }, 
 
   "pharmacy": {
@@ -350,6 +350,14 @@
     "width":21,
     "x":180,
     "y":106
+  }, 
+
+  "pylon": {
+    "height":11,
+    "pixelRatio":1,
+    "width":7,
+    "x":183,
+    "y":91
   }, 
 
   "restaurant": {
@@ -388,8 +396,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":279,
-    "y":108
+    "x":294,
+    "y":29
   }, 
 
   "tree": {

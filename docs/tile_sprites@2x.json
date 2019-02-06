@@ -352,6 +352,14 @@
     "y":189
   }, 
 
+  "pylon": {
+    "height":22,
+    "pixelRatio":1,
+    "width":14,
+    "x":565,
+    "y":205
+  }, 
+
   "restaurant": {
     "height":42,
     "pixelRatio":1,
