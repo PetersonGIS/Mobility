@@ -12,8 +12,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":294,
-    "y":23
+    "x":285,
+    "y":56
   }, 
 
   "bank": {
@@ -56,6 +56,14 @@
     "y":112
   }, 
 
+  "christian": {
+    "height":11,
+    "pixelRatio":1,
+    "width":6,
+    "x":294,
+    "y":23
+  }, 
+
   "clinic": {
     "height":32,
     "pixelRatio":1,
@@ -76,8 +84,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":285,
-    "y":56
+    "x":249,
+    "y":117
   }, 
 
   "commercial": {
@@ -117,7 +125,7 @@
     "pixelRatio":1,
     "width":4,
     "x":249,
-    "y":117
+    "y":123
   }, 
 
   "education": {
@@ -132,8 +140,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":249,
-    "y":123
+    "x":286,
+    "y":78
   }, 
 
   "electrified_railway": {
@@ -188,8 +196,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":286,
-    "y":78
+    "x":279,
+    "y":108
   }, 
 
   "grassland_pattern": {
@@ -324,8 +332,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":279,
-    "y":108
+    "x":255,
+    "y":117
   }, 
 
   "pharmacy": {
@@ -396,8 +404,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":294,
-    "y":29
+    "x":255,
+    "y":123
   }, 
 
   "tree": {
