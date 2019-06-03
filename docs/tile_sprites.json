@@ -84,7 +84,7 @@
     "height":5,
     "pixelRatio":1,
     "width":7,
-    "x":101,
+    "x":93,
     "y":414
   }, 
 
@@ -140,8 +140,8 @@
     "height":8,
     "pixelRatio":1,
     "width":6,
-    "x":93,
-    "y":408
+    "x":91,
+    "y":421
   }, 
 
   "communications_tower": {
@@ -184,6 +184,14 @@
     "y":120
   }, 
 
+  "crane": {
+    "height":8,
+    "pixelRatio":1,
+    "width":12,
+    "x":17,
+    "y":423
+  }, 
+
   "culvert": {
     "height":30,
     "pixelRatio":1,
@@ -220,8 +228,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":120,
-    "y":272
+    "x":93,
+    "y":408
   }, 
 
   "electrified_railway": {
@@ -348,8 +356,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":110,
-    "y":417
+    "x":120,
+    "y":272
   }, 
 
   "grassland_pattern": {
@@ -364,8 +372,8 @@
     "height":5,
     "pixelRatio":1,
     "width":7,
-    "x":110,
-    "y":410
+    "x":102,
+    "y":414
   }, 
 
   "gravel_pattern": {
@@ -444,8 +452,8 @@
     "height":8,
     "pixelRatio":1,
     "width":8,
-    "x":17,
-    "y":423
+    "x":99,
+    "y":404
   }, 
 
   "inn": {
@@ -636,16 +644,16 @@
     "height":8,
     "pixelRatio":1,
     "width":6,
-    "x":101,
-    "y":404
+    "x":99,
+    "y":421
   }, 
 
   "orchard_pattern": {
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":107,
-    "y":423
+    "x":111,
+    "y":412
   }, 
 
   "pagoda": {
@@ -684,8 +692,8 @@
     "height":8,
     "pixelRatio":1,
     "width":6,
-    "x":109,
-    "y":400
+    "x":107,
+    "y":421
   }, 
 
   "pipeline_below_surface_not_water_pattern": {
@@ -796,8 +804,8 @@
     "height":10,
     "pixelRatio":1,
     "width":6,
-    "x":91,
-    "y":418
+    "x":109,
+    "y":400
   }, 
 
   "school50k": {
@@ -820,8 +828,8 @@
     "height":8,
     "pixelRatio":1,
     "width":6,
-    "x":99,
-    "y":421
+    "x":117,
+    "y":408
   }, 
 
   "shinto": {
@@ -940,8 +948,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":116,
-    "y":417
+    "x":115,
+    "y":418
   }, 
 
   "tree_row": {
