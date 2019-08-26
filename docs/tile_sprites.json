@@ -404,8 +404,8 @@
     "height":4,
     "pixelRatio":1,
     "width":4,
-    "x":112,
-    "y":426
+    "x":120,
+    "y":427
   }, 
 
   "grassland_pattern": {
@@ -557,7 +557,7 @@
     "pixelRatio":1,
     "width":5,
     "x":114,
-    "y":432
+    "y":434
   }, 
 
   "lighthouse": {
@@ -709,7 +709,7 @@
     "pixelRatio":1,
     "width":4,
     "x":114,
-    "y":452
+    "y":454
   }, 
 
   "pagoda": {
@@ -784,12 +784,20 @@
     "y":280
   }, 
 
+  "place": {
+    "height":6,
+    "pixelRatio":1,
+    "width":6,
+    "x":112,
+    "y":426
+  }, 
+
   "police": {
     "height":8,
     "pixelRatio":1,
     "width":5,
     "x":114,
-    "y":442
+    "y":444
   }, 
 
   "post_office": {
@@ -1029,7 +1037,7 @@
     "pixelRatio":1,
     "width":4,
     "x":121,
-    "y":427
+    "y":433
   }, 
 
   "tree_row": {
