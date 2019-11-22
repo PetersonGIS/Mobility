@@ -124,8 +124,8 @@
     "height":5,
     "pixelRatio":1,
     "width":7,
-    "x":101,
-    "y":509
+    "x":110,
+    "y":510
   }, 
 
   "checkpoint": {
@@ -436,8 +436,8 @@
     "height":5,
     "pixelRatio":1,
     "width":7,
-    "x":101,
-    "y":516
+    "x":119,
+    "y":510
   }, 
 
   "gravel_pattern": {
@@ -508,8 +508,8 @@
     "height":7,
     "pixelRatio":1,
     "width":7,
-    "x":117,
-    "y":500
+    "x":93,
+    "y":509
   }, 
 
   "hut": {
@@ -996,7 +996,7 @@
     "height":8,
     "pixelRatio":1,
     "width":6,
-    "x":93,
+    "x":102,
     "y":509
   }, 
 
@@ -1198,6 +1198,14 @@
     "width":16,
     "x":97,
     "y":180
+  }, 
+
+  "water_well": {
+    "height":8,
+    "pixelRatio":1,
+    "width":8,
+    "x":117,
+    "y":500
   }, 
 
   "windmill": {
