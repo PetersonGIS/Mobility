@@ -336,6 +336,14 @@
     "y":293
   }, 
 
+  "fire_station": {
+    "height":10,
+    "pixelRatio":1,
+    "width":10,
+    "x":100,
+    "y":488
+  }, 
+
   "forest_pattern": {
     "height":20,
     "pixelRatio":1,
@@ -412,8 +420,8 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":100,
-    "y":488
+    "x":103,
+    "y":500
   }, 
 
   "government_pattern": {
@@ -492,16 +500,16 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":103,
-    "y":500
+    "x":112,
+    "y":488
   }, 
 
   "hotel": {
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":112,
-    "y":488
+    "x":115,
+    "y":500
   }, 
 
   "house": {
@@ -524,8 +532,8 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":115,
-    "y":500
+    "x":108,
+    "y":512
   }, 
 
   "intermittent_canal_pattern": {
@@ -636,8 +644,8 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":108,
-    "y":512
+    "x":107,
+    "y":387
   }, 
 
   "Lookout": {
@@ -725,7 +733,7 @@
     "pixelRatio":1,
     "width":10,
     "x":107,
-    "y":387
+    "y":399
   }, 
 
   "museum": {
@@ -837,7 +845,7 @@
     "pixelRatio":1,
     "width":6,
     "x":113,
-    "y":447
+    "y":459
   }, 
 
   "pipeline_below_surface_not_water_pattern": {
@@ -885,7 +893,7 @@
     "pixelRatio":1,
     "width":5,
     "x":121,
-    "y":447
+    "y":459
   }, 
 
   "post_office": {
@@ -900,8 +908,8 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":107,
-    "y":399
+    "x":101,
+    "y":411
   }, 
 
   "pylon": {
@@ -932,8 +940,8 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":101,
-    "y":411
+    "x":105,
+    "y":423
   }, 
 
   "restaurant": {
@@ -1012,8 +1020,8 @@
     "height":8,
     "pixelRatio":1,
     "width":6,
-    "x":113,
-    "y":457
+    "x":117,
+    "y":469
   }, 
 
   "shinto": {
@@ -1052,8 +1060,8 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":105,
-    "y":423
+    "x":110,
+    "y":435
   }, 
 
   "stone": {
@@ -1148,8 +1156,8 @@
     "height":10,
     "pixelRatio":1,
     "width":10,
-    "x":110,
-    "y":435
+    "x":113,
+    "y":447
   }, 
 
   "university": {
