@@ -1216,6 +1216,14 @@
     "y":332
   }, 
 
+  "warehouse": {
+    "height":7,
+    "pixelRatio":1,
+    "width":7,
+    "x":86,
+    "y":519
+  }, 
+
   "water_tower": {
     "height":25,
     "pixelRatio":1,
