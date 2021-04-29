@@ -83,7 +83,7 @@
     "x": 122,
     "y": 150
   },
-  "at_expressway_2": {
+  "AT:expressway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -97,7 +97,7 @@
     "x": 311,
     "y": 322
   },
-  "at_motorway_2": {
+  "AT:motorway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -111,7 +111,7 @@
     "x": 357,
     "y": 322
   },
-  "at_state_b_2": {
+  "AT:B-road": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -209,14 +209,14 @@
     "x": 227,
     "y": 150
   },
-  "bg_motorway_2": {
+  "BG:motorway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
     "x": 461,
     "y": 322
   },
-  "bg_national_2": {
+  "BG:national": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -258,14 +258,14 @@
     "x": 478,
     "y": 106
   },
-  "br_federal_3": {
+  "BR:federal": {
     "height": 22,
     "pixelRatio": 1,
     "width": 26,
     "x": 200,
     "y": 0
   },
-  "br_state_2": {
+  "BR:state": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -363,7 +363,7 @@
     "x": 147,
     "y": 172
   },
-  "ch_main_2": {
+  "CH:main": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -377,7 +377,7 @@
     "x": 20,
     "y": 338
   },
-  "ch_motorway_2": {
+  "CH:motorway": {
     "height": 16,
     "pixelRatio": 1,
     "width": 22,
@@ -475,7 +475,7 @@
     "x": 0,
     "y": 193
   },
-  "cz_expressway_2": {
+  "CZ:expressway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -489,14 +489,14 @@
     "x": 66,
     "y": 338
   },
-  "cz_motorway_2": {
+  "CZ:motorway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
     "x": 92,
     "y": 338
   },
-  "cz_road_2": {
+  "CZ:road": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -510,7 +510,7 @@
     "x": 132,
     "y": 338
   },
-  "de_federal_2": {
+  "DE:federal": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -531,7 +531,7 @@
     "x": 204,
     "y": 338
   },
-  "de_motorway_2": {
+  "DE:motorway": {
     "height": 16,
     "pixelRatio": 1,
     "width": 22,
@@ -545,28 +545,28 @@
     "x": 84,
     "y": 290
   },
-  "de_s_bahn": {
+  "DE:S-bahn": {
     "height": 19,
     "pixelRatio": 1,
     "width": 19,
     "x": 245,
     "y": 128
   },
-  "de_s_bahn.de_u_bahn": {
+  "DE:S-bahn.DE:U-bahn": {
     "height": 19,
     "pixelRatio": 1,
     "width": 35,
     "x": 264,
     "y": 128
   },
-  "de_u_bahn": {
+  "DE:U-bahn": {
     "height": 17,
     "pixelRatio": 1,
     "width": 17,
     "x": 475,
     "y": 64
   },
-  "default_2": {
+  "default": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -622,7 +622,7 @@
     "x": 21,
     "y": 193
   },
-  "dk_primary_2": {
+  "DK:primary": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -706,7 +706,7 @@
     "x": 84,
     "y": 193
   },
-  "e_road_2": {
+  "e-road": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -790,21 +790,21 @@
     "x": 168,
     "y": 193
   },
-  "fi_main_2": {
+  "FI:main": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
     "x": 32,
     "y": 352
   },
-  "fi_regional_3": {
+  "FI:regional": {
     "height": 14,
     "pixelRatio": 1,
     "width": 26,
     "x": 52,
     "y": 352
   },
-  "fi_trunk_2": {
+  "FI:trunk": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -951,7 +951,7 @@
     "x": 0,
     "y": 214
   },
-  "gr_motorway_2": {
+  "GR:motorway": {
     "height": 16,
     "pixelRatio": 1,
     "width": 22,
@@ -972,7 +972,7 @@
     "x": 265,
     "y": 306
   },
-  "gr_national_2": {
+  "GR:national": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -1056,14 +1056,14 @@
     "x": 84,
     "y": 214
   },
-  "hr_county_4": {
+  "HR:county": {
     "height": 14,
     "pixelRatio": 1,
     "width": 32,
     "x": 193,
     "y": 352
   },
-  "hr_motorway_3": {
+  "HR:motorway": {
     "height": 16,
     "pixelRatio": 1,
     "width": 28,
@@ -1077,7 +1077,7 @@
     "x": 327,
     "y": 306
   },
-  "hr_state_2": {
+  "HR:state": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -1091,7 +1091,7 @@
     "x": 245,
     "y": 352
   },
-  "hu_main_2": {
+  "HU:main": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -1119,7 +1119,7 @@
     "x": 358,
     "y": 214
   },
-  "hu_motorway_2": {
+  "HU:motorway": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -1147,7 +1147,7 @@
     "x": 105,
     "y": 214
   },
-  "in_national_2": {
+  "IN:national": {
     "height": 22,
     "pixelRatio": 1,
     "width": 16,
@@ -1168,7 +1168,7 @@
     "x": 20,
     "y": 106
   },
-  "in_state_2": {
+  "IN:state": {
     "height": 22,
     "pixelRatio": 1,
     "width": 16,
@@ -1385,7 +1385,7 @@
     "x": 172,
     "y": 256
   },
-  "motorway_exit_1": {
+  "motorway_exit": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -1490,7 +1490,7 @@
     "x": 21,
     "y": 235
   },
-  "mx_federal_2": {
+  "MX:federal": {
     "height": 22,
     "pixelRatio": 1,
     "width": 18,
@@ -1511,7 +1511,7 @@
     "x": 121,
     "y": 106
   },
-  "mx_state_2": {
+  "MX:state": {
     "height": 22,
     "pixelRatio": 1,
     "width": 18,
@@ -1539,7 +1539,7 @@
     "x": 356,
     "y": 128
   },
-  "nz_state_2": {
+  "NZ:state": {
     "height": 20,
     "pixelRatio": 1,
     "width": 18,
@@ -1644,7 +1644,7 @@
     "x": 42,
     "y": 235
   },
-  "pe_national_2": {
+  "PE:national": {
     "height": 26,
     "pixelRatio": 1,
     "width": 18,
@@ -1665,7 +1665,7 @@
     "x": 218,
     "y": 106
   },
-  "pe_regional_4": {
+  "PE:regional": {
     "height": 22,
     "pixelRatio": 1,
     "width": 29,
@@ -1714,7 +1714,7 @@
     "x": 84,
     "y": 235
   },
-  "pl_expressway_2": {
+  "PL:expressway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -1728,7 +1728,7 @@
     "x": 138,
     "y": 366
   },
-  "pl_motorway_2": {
+  "PL:motorway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -1742,14 +1742,14 @@
     "x": 184,
     "y": 366
   },
-  "pl_national_2": {
+  "PL:national": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
     "x": 210,
     "y": 366
   },
-  "pl_voivodeship_3": {
+  "PL:voivodeship": {
     "height": 14,
     "pixelRatio": 1,
     "width": 26,
@@ -1945,7 +1945,7 @@
     "x": 336,
     "y": 172
   },
-  "ro_communal_2": {
+  "RO:communal": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -1980,7 +1980,7 @@
     "x": 80,
     "y": 128
   },
-  "ro_county_3": {
+  "RO:county": {
     "height": 20,
     "pixelRatio": 1,
     "width": 26,
@@ -1994,7 +1994,7 @@
     "x": 304,
     "y": 235
   },
-  "ro_motorway_2": {
+  "RO:motorway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -2008,7 +2008,7 @@
     "x": 276,
     "y": 366
   },
-  "ro_national_2": {
+  "RO:national": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -2036,28 +2036,28 @@
     "x": 357,
     "y": 172
   },
-  "rs_motorway_3": {
+  "RS:motorway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 26,
     "x": 302,
     "y": 366
   },
-  "rs_state_1b_2": {
+  "RS:1B-road": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
     "x": 328,
     "y": 366
   },
-  "rs_state_2a_3": {
+  "RS:2A-road": {
     "height": 14,
     "pixelRatio": 1,
     "width": 26,
     "x": 348,
     "y": 366
   },
-  "rs_state_2b_3": {
+  "RS:2B-road": {
     "height": 14,
     "pixelRatio": 1,
     "width": 26,
@@ -2085,7 +2085,7 @@
     "x": 378,
     "y": 172
   },
-  "se_main_2": {
+  "SE:main": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -2113,14 +2113,14 @@
     "x": 399,
     "y": 172
   },
-  "si_expressway_3": {
+  "SI:expressway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 26,
     "x": 446,
     "y": 366
   },
-  "si_main_2": {
+  "SI:main": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -2134,7 +2134,7 @@
     "x": 0,
     "y": 380
   },
-  "si_motorway_2": {
+  "SI:motorway": {
     "height": 16,
     "pixelRatio": 1,
     "width": 22,
@@ -2148,14 +2148,14 @@
     "x": 170,
     "y": 273
   },
-  "sk_highway_2": {
+  "SK:highway": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
     "x": 492,
     "y": 366
   },
-  "sk_road_2": {
+  "SK:road": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
@@ -2386,7 +2386,7 @@
     "x": 64,
     "y": 0
   },
-  "us_highway_2": {
+  "US:highway": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -2407,7 +2407,7 @@
     "x": 428,
     "y": 235
   },
-  "us_highway_alternate_2": {
+  "US:highway:Alternate": {
     "height": 38,
     "pixelRatio": 1,
     "width": 20,
@@ -2421,7 +2421,7 @@
     "x": 108,
     "y": 64
   },
-  "us_highway_business_2": {
+  "US:highway:Business": {
     "height": 38,
     "pixelRatio": 1,
     "width": 20,
@@ -2435,7 +2435,7 @@
     "x": 154,
     "y": 64
   },
-  "us_highway_bypass_2": {
+  "US:highway:Bypass": {
     "height": 38,
     "pixelRatio": 1,
     "width": 20,
@@ -2456,7 +2456,7 @@
     "x": 460,
     "y": 235
   },
-  "us_highway_duplex_4": {
+  "US:highway:Duplex": {
     "height": 20,
     "pixelRatio": 1,
     "width": 32,
@@ -2470,7 +2470,7 @@
     "x": 273,
     "y": 106
   },
-  "us_highway_truck_2": {
+  "US:highway:Truck": {
     "height": 38,
     "pixelRatio": 1,
     "width": 20,
@@ -2484,7 +2484,7 @@
     "x": 110,
     "y": 0
   },
-  "us_interstate_2": {
+  "US:I": {
     "height": 22,
     "pixelRatio": 1,
     "width": 20,
@@ -2505,7 +2505,7 @@
     "x": 160,
     "y": 128
   },
-  "us_interstate_business_2": {
+  "US:I:Business": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -2519,7 +2519,7 @@
     "x": 311,
     "y": 106
   },
-  "us_interstate_duplex_4": {
+  "US:I:Duplex": {
     "height": 22,
     "pixelRatio": 1,
     "width": 32,
@@ -2533,7 +2533,7 @@
     "x": 0,
     "y": 150
   },
-  "us_interstate_truck_2": {
+  "US:I:Truck": {
     "height": 40,
     "pixelRatio": 1,
     "width": 20,
@@ -2547,7 +2547,7 @@
     "x": 62,
     "y": 64
   },
-  "us_state_2": {
+  "US:state": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -2610,14 +2610,14 @@
     "x": 442,
     "y": 273
   },
-  "za_metropolitan_2": {
+  "ZA:metropolitan": {
     "height": 14,
     "pixelRatio": 1,
     "width": 20,
     "x": 142,
     "y": 380
   },
-  "za_national_2": {
+  "ZA:national": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
@@ -2631,14 +2631,14 @@
     "x": 435,
     "y": 106
   },
-  "za_provincial_2": {
+  "ZA:provincial": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 176,
     "y": 0
   },
-  "za_regional_3": {
+  "ZA:regional": {
     "height": 14,
     "pixelRatio": 1,
     "width": 26,
